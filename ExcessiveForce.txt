@@ -16,20 +16,18 @@ Deck
 1 Castle Garenbrig (ELD) 240
 4 Gruff Triplets (WOE) 172
 2 Boseiju, Who Endures (NEO) 266
-2 Severed Strands (GRN) 85
+4 Severed Strands (GRN) 85
 2 Ilysian Caryatid (ANB) 98
 1 Primal Vigor (WOT) 59
-2 Tend the Pests (STX) 242
 
 Sideboard
 4 Not Dead After All (WOE) 101
 1 Ilysian Caryatid (ANB) 98
 1 Daemogoth Titan (STX) 174
-1 Severed Strands (GRN) 85
+1 Undead Butler (VOW) 133
 1 Ilysian Caryatid (ANB) 98
 2 Daemogoth Titan (STX) 174
 1 Blex, Vexing Pest (STX) 148
-1 Severed Strands (GRN) 85
-1 Undead Butler (VOW) 133
 1 Infuse with Vitality (STX) 194
 1 Dina, Soul Steeper (STX) 178
+2 Tend the Pests (STX) 242
