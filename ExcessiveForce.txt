@@ -1,35 +1,32 @@
 Deck
-4 Infuse with Vitality (STX) 194
+3 Infuse with Vitality (STX) 194
 5 Forest (MKM) 286
 1 Temple of Malady (M21) 253
 2 Deathcap Glade (VOW) 261
-2 Not Dead After All (WOE) 101
+4 Sedgemoor Witch (STX) 86
 4 Doubling Season (WOT) 52
 1 Darkbore Pathway (KHM) 254
-3 Adventurous Impulse (STA) 49
-3 Village Rites (STA) 35
+4 Adventurous Impulse (STA) 49
+4 Village Rites (STA) 35
 2 Takenuma, Abandoned Mire (NEO) 278
 4 Dina, Soul Steeper (STX) 178
 7 Swamp (MKM) 282
-4 Undead Butler (VOW) 133
-1 Turntimber Symbiosis (ZNR) 215
-1 Growing Rites of Itlimoc (LCI) 188
-3 Cultivate (STA) 51
+3 Undead Butler (VOW) 133
+4 Cultivate (STA) 51
 1 Castle Garenbrig (ELD) 240
 4 Gruff Triplets (WOE) 172
 2 Boseiju, Who Endures (NEO) 266
 3 Severed Strands (GRN) 85
-3 Ilysian Caryatid (ANB) 98
+2 Ilysian Caryatid (ANB) 98
 
 Sideboard
-2 Not Dead After All (WOE) 101
+4 Not Dead After All (WOE) 101
 1 Tend the Pests (STX) 242
 1 Ilysian Caryatid (ANB) 98
 1 Daemogoth Titan (STX) 174
-1 Sedgemoor Witch (STX) 86
-1 Village Rites (STA) 35
+1 Ilysian Caryatid (ANB) 98
 2 Daemogoth Titan (STX) 174
-2 Sedgemoor Witch (STX) 86
 2 Blex, Vexing Pest (STX) 148
 1 Severed Strands (GRN) 85
-1 Adventurous Impulse (STA) 49
+1 Undead Butler (VOW) 133
+1 Infuse with Vitality (STX) 194
