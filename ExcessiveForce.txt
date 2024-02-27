@@ -4,14 +4,13 @@ Deck
 1 Temple of Malady (M21) 253
 3 Ilysian Caryatid (ANB) 98
 2 Deathcap Glade (VOW) 261
-3 Not Dead After All (WOE) 101
+2 Not Dead After All (WOE) 101
 4 Doubling Season (WOT) 52
 1 Darkbore Pathway (KHM) 254
 2 Adventurous Impulse (STA) 49
 4 Village Rites (STA) 35
 2 Takenuma, Abandoned Mire (NEO) 278
-4 Dina, Soul Steeper (STX) 178
-2 Daemogoth Titan (STX) 174
+3 Dina, Soul Steeper (STX) 178
 5 Swamp (MKM) 282
 4 Undead Butler (VOW) 133
 1 Turntimber Symbiosis (ZNR) 215
@@ -20,6 +19,7 @@ Deck
 1 Castle Garenbrig (ELD) 240
 4 Gruff Triplets (WOE) 172
 2 Boseiju, Who Endures (NEO) 266
+4 Severed Strands (GRN) 85
 
 Sideboard
 1 Not Dead After All (WOE) 101
@@ -27,5 +27,9 @@ Sideboard
 1 Tend the Pests (STX) 242
 1 Ilysian Caryatid (ANB) 98
 1 Daemogoth Titan (STX) 174
-3 Sedgemoor Witch (STX) 86
+1 Sedgemoor Witch (STX) 86
+1 Not Dead After All (WOE) 101
+2 Daemogoth Titan (STX) 174
+2 Sedgemoor Witch (STX) 86
 2 Blex, Vexing Pest (STX) 148
+1 Dina, Soul Steeper (STX) 178
