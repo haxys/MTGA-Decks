@@ -4,16 +4,16 @@ Deck
 1 Temple of Malady (M21) 253
 3 Ilysian Caryatid (ANB) 98
 2 Deathcap Glade (VOW) 261
-4 Not Dead After All (WOE) 101
+3 Not Dead After All (WOE) 101
 4 Doubling Season (WOT) 52
 1 Darkbore Pathway (KHM) 254
-4 Adventurous Impulse (STA) 49
-2 Village Rites (STA) 35
+2 Adventurous Impulse (STA) 49
+4 Village Rites (STA) 35
 2 Takenuma, Abandoned Mire (NEO) 278
 4 Dina, Soul Steeper (STX) 178
 2 Daemogoth Titan (STX) 174
 5 Swamp (MKM) 282
-3 Undead Butler (VOW) 133
+4 Undead Butler (VOW) 133
 1 Turntimber Symbiosis (ZNR) 215
 1 Growing Rites of Itlimoc (LCI) 188
 3 Cultivate (STA) 51
@@ -22,6 +22,8 @@ Deck
 2 Boseiju, Who Endures (NEO) 266
 
 Sideboard
+1 Not Dead After All (WOE) 101
+2 Adventurous Impulse (STA) 49
 1 Tend the Pests (STX) 242
 1 Ilysian Caryatid (ANB) 98
 1 Daemogoth Titan (STX) 174
