@@ -1,6 +1,6 @@
 Deck
 2 Infuse with Vitality (STX) 194
-5 Swamp (IKO) 268
+4 Swamp (IKO) 268
 1 Temple of Malady (M21) 253
 2 Deathcap Glade (VOW) 261
 4 Sedgemoor Witch (STX) 86
@@ -10,7 +10,7 @@ Deck
 4 Village Rites (STA) 35
 2 Takenuma, Abandoned Mire (NEO) 278
 3 Dina, Soul Steeper (STX) 178
-7 Forest (DMU) 274
+6 Forest (DMU) 274
 3 Undead Butler (VOW) 133
 4 Cultivate (STA) 51
 1 Castle Garenbrig (ELD) 240
@@ -19,6 +19,7 @@ Deck
 4 Severed Strands (GRN) 85
 2 Ilysian Caryatid (ANB) 98
 1 Primal Vigor (WOT) 59
+2 Unnatural Growth (WOT) 62
 
 Sideboard
 4 Not Dead After All (WOE) 101
