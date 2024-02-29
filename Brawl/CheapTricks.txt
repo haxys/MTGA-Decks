@@ -1,0 +1,70 @@
+Commander
+1 Vadrik, Astral Archmage (MID) 248
+
+Deck
+1 Spellrune Painter (MID) 160
+1 Lambholt Raconteur (VOW) 167
+1 Eater of Virtue (NEO) 245
+1 Baral and Kari Zev (MOM) 218
+1 Virtue of Courage (WOE) 157
+1 Keldon Flamesage (DMU) 135
+1 Geistflame Reservoir (MID) 142
+1 Smoldering Egg (MID) 159
+1 Scalding Viper (WOE) 235
+1 Bloodfeather Phoenix (MOM) 132
+1 Inventive Iteration (NEO) 57
+1 Chrome Host Seedshark (MOM) 51
+1 Mercurial Spelldancer (ONE) 61
+1 Galvanic Iteration (MID) 224
+1 Najal, the Storm Runner (DMU) 208
+1 Candlestick (MKM) 43
+1 Curious Inquiry (MKM) 51
+1 Frolicking Familiar (WOE) 226
+1 Trawler Drake (ONE) 74
+1 Splashy Spellcaster (WOE) 70
+1 Simian Sling (NEO) 163
+1 Burn Down the House (MID) 131
+1 Hearth Elemental (WOE) 136
+1 Witchstalker Frenzy (WOE) 159
+1 Seize the Storm (MID) 158
+1 Into the Night (VOW) 163
+1 Twisted Fealty (WOE) 154
+1 Rending Flame (VOW) 175
+1 Cathartic Pyre (MID) 133
+1 Succumb to the Cold (WOE) 72
+1 Essence Capture (NEO) 52
+1 Disdainful Stroke (WOE) 47
+1 Confounding Riddle (LCI) 50
+16 Island (MKM) 280
+19 Mountain (MKM) 284
+1 Baral, Chief of Compliance (KLR) 42
+1 Compulsive Research (STA) 14
+1 Magma Opus (STX) 203
+1 Flame of Anor (LTR) 203
+1 Fervent Mastery (STX) 101
+1 Change of Fortune (VOW) 150
+1 Sublime Epiphany (M21) 74
+1 Summary Dismissal (SIR) 92
+1 Intrude on the Mind (MKM) 61
+1 Time Warp (STA) 22
+1 Increasing Vengeance (STA) 40
+1 Stone Rain (STA) 45
+1 Storm's Wrath (THB) 157
+1 Mizzix's Mastery (STA) 43
+1 Volcanic Salvo (M21) 172
+1 Draconic Destiny (BRO) 130
+1 Blackblade Reforged (BRR) 6
+1 Iroas's Blessing (THB) 142
+1 Hammerhand (DMU) 129
+1 Awakened Awareness (NEO) 47
+1 Rousing Read (M21) 67
+1 Cradle of Safety (VOW) 54
+1 Cartouche of Knowledge (AKR) 51
+1 Mischievous Catgeist (VOW) 69
+1 Arcane Flight (DAR) 43
+1 Lantern Bearer (VOW) 66
+1 Riverglide Pathway (ZNR) 264
+1 Temple of Epiphany (M21) 252
+1 Sulfur Falls (DAR) 247
+1 Stormcarved Coast (VOW) 265
+1 Jwari Disruption (ZNR) 64
