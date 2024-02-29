@@ -1,0 +1,31 @@
+Deck
+3 Jukai Preserver (NEO) 195
+7 Forest (MKM) 286
+2 Tales of Master Seshiro (NEO) 210
+2 Bearer of Memory (NEO) 174
+3 Spirited Companion (NEO) 38
+9 Plains (MKM) 278
+3 Era of Enlightenment (NEO) 11
+3 Befriending the Moths (NEO) 4
+4 Radiant Grove (DMU) 253
+4 Blossoming Sands (MOM) 268
+3 Light the Way (NEO) 24
+3 Adventurous Impulse (STA) 49
+3 Celestial Unicorn (AFR) 5
+1 Owlbear (AFR) 198
+2 Crowd-Control Warden (MKM) 193
+3 Kami of Whispered Hopes (MOM) 196
+1 Archon of Sun's Grace (THB) 3
+2 Unnatural Growth (WOT) 62
+2 Blind Obedience (WOT) 1
+
+Sideboard
+3 Lucky Offering (NEO) 27
+1 Celestial Unicorn (AFR) 5
+2 Bearer of Memory (NEO) 174
+1 Tales of Master Seshiro (NEO) 210
+1 Tales of Master Seshiro (NEO) 210
+1 Era of Enlightenment (NEO) 11
+1 Befriending the Moths (NEO) 4
+1 Spirited Companion (NEO) 38
+1 Owlbear (AFR) 198
