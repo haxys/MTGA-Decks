@@ -1,0 +1,72 @@
+Commander
+1 Mangara, the Diplomat (M21) 27
+
+Deck
+1 Welcoming Vampire (VOW) 46
+1 Wedding Announcement (VOW) 45
+1 Resplendent Angel (LCI) 32
+1 Flumph (AFR) 15
+1 Curse of Silence (MID) 15
+1 Minas Tirith (LTR) 256
+1 Luminous Broodmoth (IKO) 21
+1 Rumor Gatherer (SNC) 29
+1 Revitalize (STA) 9
+1 Intrepid Adversary (MID) 25
+1 Discerning Financier (WOE) 10
+1 Defiant Strike (STA) 3
+1 Search Party Captain (MID) 32
+1 Inspiring Overseer (SNC) 18
+1 Lunarch Veteran (MID) 27
+1 Cerise, Slayer of Fear (Y24) 1
+1 Serra Paragon (DMU) 32
+1 Leonin Warleader (ANB) 13
+1 Aurelia's Vindicator (MKM) 4
+1 Righteous Valkyrie (KHM) 24
+1 Speaker of the Heavens (M21) 38
+1 Voice of the Blessed (VOW) 44
+1 Sune's Intervention (HBG) 29
+1 The Fair Basilica (ONE) 252
+1 Eagle of Deliverance (LTR) 824
+1 Lady of Laughter (WOE) 309
+1 Bright Reprisal (XLN) 7
+1 True Love's Kiss (ELD) 34
+1 Smothering Tithe (WOT) 13
+1 Sigarda's Splendor (MID) 33
+1 Union of the Third Path (BRO) 31
+1 Faramir, Field Commander (LTR) 14
+1 Topple the Statue (WAR) 35
+1 Ritual of Rejuvenation (XLN) 32
+1 Scrollshift (MOM) 34
+1 Elesh Norn (MOM) 12
+1 Resistance Squad (VOW) 32
+1 Invasion of Dominaria (MOM) 21
+1 Ghostly Prison (SPG) 19
+1 Shelter (MH1) 28
+1 Reprieve (LTR) 26
+1 Pressure Point (ZNR) 33
+1 Potion of Healing (AFR) 34
+1 Plunge into Winter (WOE) 22
+1 Dawn of Hope (WOT) 2
+1 Dawn of a New Age (LTR) 5
+1 Esper Sentinel (MH2) 12
+1 Eiganjo, Seat of the Empire (NEO) 268
+1 Idyllic Grange (ELD) 246
+1 Kabira Takedown (ZNR) 19
+1 Sejiri Shelter (ZNR) 37
+1 Skyclave Cleric (ZNR) 40
+1 Makindi Stampede (ZNR) 26
+1 Radiant Fountain (M21) 248
+32 Plains (MKM) 278
+1 Mana Tithe (STA) 8
+1 Angel of Destiny (ZNR) 2
+1 Griffin Aerie (WOT) 5
+1 Soul Warden (M10) 34
+1 Lone Rider (SIR) 36
+1 Nyx-Fleece Ram (JOU) 18
+1 Angel of Vitality (ANB) 1
+1 Doomskar Oracle (KHM) 10
+1 Inspiring Cleric (XLN) 16
+1 Heron of Hope (VOW) 18
+1 Aven Gagglemaster (M21) 5
+1 Dawning Angel (M20) 11
+1 Filigree Familiar (KLR) 239
