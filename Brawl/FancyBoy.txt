@@ -1,0 +1,64 @@
+Commander
+1 Lier, Disciple of the Drowned (MID) 59
+
+Deck
+1 Stolen by the Fae (ELD) 66
+1 Hullbreaker Horror (VOW) 63
+1 Sublime Epiphany (M21) 74
+1 Riddlemaster Sphinx (ANB) 31
+1 Beluna's Gatekeeper (WOE) 43
+1 Pouncing Shoreshark (IKO) 64
+1 Johann's Stopgap (WOE) 58
+1 As Foretold (AKR) 49
+1 Brazen Borrower (ELD) 39
+1 Unexplained Disappearance (GRN) 56
+1 Unauthorized Exit (MKM) 74
+1 Paths of Tuinvale (Y24) 4
+1 Into the Roil (ZNR) 62
+1 Geistwave (MID) 56
+1 Depart the Realm (KHM) 53
+1 Unsummon (ANB) 36
+1 Stern Dismissal (THB) 68
+1 Fading Hope (MID) 51
+1 Alchemist's Retrieval (VOW) 47
+1 Brainstorm (STA) 13
+1 Opt (STA) 19
+1 Curiosity (WOT) 17
+1 Mischievous Catgeist (VOW) 69
+1 Moon-Circuit Hacker (NEO) 67
+40 Island (MKM) 280
+1 Stitched Assistant (VOW) 81
+1 Bitter Chill (WOE) 44
+1 Cartouche of Knowledge (AKR) 51
+1 Curate (STX) 40
+1 Deduce (MKM) 52
+1 Jacob Hauken, Inspector (VOW) 65
+1 Oracle of Tragedy (MOM) 71
+1 Raving Visionary (MH2) 56
+1 Stormchaser Drake (VOW) 82
+1 Cloudkin Seer (ANB) 25
+1 Grazilaxx, Illithid Scholar (AFR) 60
+1 Compulsive Research (STA) 14
+1 Crippling Chill (KTK) 35
+1 Overwhelmed Archivist (MID) 68
+1 Quick Study (WOE) 65
+1 Hylda's Crown of Winter (WOE) 247
+1 Swashbuckler's Whip (LCI) 263
+1 Tolarian Kraken (M21) 80
+1 Waylaying Pirates (LCI) 85
+1 Vantress Transmuter (WOE) 75
+1 Kelpie Guide (STX) 45
+1 Frost Trickster (STX) 43
+1 Crimestopper Sprite (MKM) 49
+1 Component Collector (MID) 43
+1 Chrome Prowler (ONE) 45
+1 Dreamshackle Geist (VOW) 58
+1 Stinging Lionfish (THB) 69
+1 Impede Momentum (DMU) 54
+1 Freeze in Place (WOE) 50
+1 Snaremaster Sprite (WOE) 68
+1 Network Disruptor (NEO) 71
+1 Lodestone Needle (LCI) 62
+1 Succumb to the Cold (WOE) 72
+1 Out Cold (MKM) 66
+1 Loch Larent (Y24) 30
