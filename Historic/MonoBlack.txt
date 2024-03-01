@@ -1,37 +1,33 @@
 Deck
 2 Crushing Disappointment (STX) 68
-1 Rowan's Grim Search (WOE) 104
-1 Fell Horseman (WOE) 92
+2 Fell Horseman (WOE) 92
 2 Severed Strands (GRN) 85
 4 Clawing Torment (NEO) 91
-2 Doomed Dissenter (VOW) 106
+3 Doomed Dissenter (VOW) 106
 2 Gixian Infiltrator (BRO) 98
-2 Mindleech Ghoul (VOW) 122
-2 Desperate Farmer (VOW) 104
+3 Mindleech Ghoul (VOW) 122
+3 Desperate Farmer (VOW) 104
 2 Etched Familiar (MOM) 101
 2 Murder (MKM) 95
-1 Diregraf Scavenger (VOW) 105
 2 Voracious Vermin (WOE) 116
-1 Bat Whisperer (MID) 86
-1 Diregraf Horde (MID) 96
+2 Bat Whisperer (MID) 86
 4 Crawl from the Cellar (MID) 93
-1 Raise the Draugr (KHM) 105
 2 Macabre Reconstruction (MKM) 93
-26 Swamp (MKM) 282
+25 Swamp (MKM) 282
 
 Sideboard
-1 Eaten Alive (MID) 99
+1 Virus Beetle (NEO) 128
+1 Reckoner's Bargain (NEO) 120
 1 Dead Weight (IKO) 83
-1 Unwilling Ingredient (STX) 90
-1 Pointed Discussion (VOW) 126
-1 Deathbloom Thallid (M21) 94
 1 Sanitarium Skeleton (ANB) 57
 1 Hopeless Nightmare (WOE) 95
-1 Virus Beetle (NEO) 128
+1 Raise the Draugr (KHM) 105
+1 Rowan's Grim Search (WOE) 104
 1 Grisly Ritual (VOW) 116
 1 Bleed Dry (VOW) 94
-1 Reckoner's Bargain (NEO) 120
 1 Mascot Exhibition (STX) 5
 1 Introduction to Annihilation (STX) 3
 1 Rot Farm Mortipede (MKM) 102
 1 Testament Bearer (ONE) 111
+1 Diregraf Horde (MID) 96
+1 Diregraf Scavenger (VOW) 105
