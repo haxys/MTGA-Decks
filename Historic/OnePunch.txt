@@ -1,0 +1,42 @@
+Deck
+2 Cleric Class (AFR) 6
+2 Defiant Strike (STA) 3
+3 Detention Vortex (STX) 13
+2 Bubble Snare (ZNR) 47
+1 Chaplain of Alms (MID) 13
+3 Curiosity (WOT) 17
+2 Alseid of Life's Bounty (THB) 1
+6 Island (MKM) 280
+2 River's Favor (ANB) 32
+10 Plains (MKM) 278
+2 Brokers Initiate (SNC) 5
+2 Clever Lumimancer (STX) 10
+1 A-Lantern Bearer (VOW) 66
+1 Esper Sentinel (MH2) 12
+1 Doomed Traveler (J21) 13
+2 A-Thousand-Faced Shadow (NEO) 86
+1 Sleep-Cursed Faerie (WOE) 66
+2 Faerie Guidemother (ELD) 11
+2 Gavony Trapper (MID) 22
+3 Healer's Hawk (GRN) 14
+2 Light of Hope (IKO) 20
+2 Deserted Beach (MID) 260
+1 Hengegate Pathway (KHM) 260
+1 Temple of Enlightenment (THB) 246
+4 Tranquil Cove (MOM) 275
+
+Sideboard
+2 Lucky Offering (NEO) 27
+1 Curious Inquiry (MKM) 51
+1 A-Lantern Bearer (VOW) 66
+1 Faerie Guidemother (ELD) 11
+1 Alseid of Life's Bounty (THB) 1
+1 Cheeky House-Mouse (WOE) 7
+1 Giant Killer (ELD) 14
+1 Detention Vortex (STX) 13
+1 Cleric Class (AFR) 6
+1 Defiant Strike (STA) 3
+1 Light of Hope (IKO) 20
+1 Arcane Flight (DAR) 43
+1 Bubble Snare (ZNR) 47
+1 Clever Lumimancer (STX) 10
