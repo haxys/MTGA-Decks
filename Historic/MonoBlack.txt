@@ -4,23 +4,23 @@ Deck
 2 Severed Strands (GRN) 85
 4 Clawing Torment (NEO) 91
 3 Doomed Dissenter (VOW) 106
-3 Gixian Infiltrator (BRO) 98
+2 Gixian Infiltrator (BRO) 98
 3 Mindleech Ghoul (VOW) 122
-3 Desperate Farmer (VOW) 104
-3 Etched Familiar (MOM) 101
+4 Desperate Farmer (VOW) 104
+2 Etched Familiar (MOM) 101
 3 Murder (MKM) 95
 2 Bat Whisperer (MID) 86
-3 Crawl from the Cellar (MID) 93
+4 Crawl from the Cellar (MID) 93
 2 Macabre Reconstruction (MKM) 93
 25 Swamp (MKM) 282
 
 Sideboard
 1 Virus Beetle (NEO) 128
-1 Sanitarium Skeleton (ANB) 57
 1 Raise the Draugr (KHM) 105
 1 Rowan's Grim Search (WOE) 104
-1 Crawl from the Cellar (MID) 93
+1 Gixian Infiltrator (BRO) 98
 2 Voracious Vermin (WOE) 116
+1 Etched Familiar (MOM) 101
 1 Grisly Ritual (VOW) 116
 1 Bleed Dry (VOW) 94
 1 Mascot Exhibition (STX) 5
