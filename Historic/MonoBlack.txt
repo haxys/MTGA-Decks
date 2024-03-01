@@ -1,14 +1,13 @@
 Deck
-2 Crushing Disappointment (STX) 68
 2 Fell Horseman (WOE) 92
 2 Severed Strands (GRN) 85
 4 Clawing Torment (NEO) 91
-3 Doomed Dissenter (VOW) 106
+4 Doomed Dissenter (VOW) 106
 2 Gixian Infiltrator (BRO) 98
 3 Mindleech Ghoul (VOW) 122
 4 Desperate Farmer (VOW) 104
 2 Etched Familiar (MOM) 101
-3 Murder (MKM) 95
+4 Murder (MKM) 95
 2 Bat Whisperer (MID) 86
 4 Crawl from the Cellar (MID) 93
 2 Macabre Reconstruction (MKM) 93
@@ -16,16 +15,17 @@ Deck
 
 Sideboard
 1 Virus Beetle (NEO) 128
+1 Bleed Dry (VOW) 94
 1 Raise the Draugr (KHM) 105
 1 Rowan's Grim Search (WOE) 104
 1 Gixian Infiltrator (BRO) 98
-2 Voracious Vermin (WOE) 116
 1 Etched Familiar (MOM) 101
+1 Crushing Disappointment (STX) 68
 1 Grisly Ritual (VOW) 116
-1 Bleed Dry (VOW) 94
 1 Mascot Exhibition (STX) 5
 1 Introduction to Annihilation (STX) 3
 1 Rot Farm Mortipede (MKM) 102
 1 Testament Bearer (ONE) 111
 1 Diregraf Horde (MID) 96
 1 Diregraf Scavenger (VOW) 105
+1 Crushing Disappointment (STX) 68
