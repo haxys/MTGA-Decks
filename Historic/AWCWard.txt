@@ -1,0 +1,37 @@
+Deck
+4 Frodo, Sauron's Bane (LTR) 18
+3 Angel of Destiny (ZNR) 2
+4 Faithbound Judge (VOW) 12
+2 Atemsis, All-Seeing (M20) 46
+4 Vorpal Sword (AFR) 124
+2 Triskaidekaphobia (SIR) 137
+2 Vraska, Scheming Gorgon (RIX) 197
+4 Etrata, the Silencer (GRN) 170
+3 Vraska, Golgari Queen (GRN) 8
+2 Nicol Bolas, Dragon-God (WAR) 207
+2 Door to Nothingness (BRR) 14
+4 Strixhaven Stadium (STX) 259
+1 Lush Portico (MKM) 263
+1 Savai Triome (IKO) 253
+1 Temple of Plenty (THB) 248
+1 Nomad Outpost (KTK) 237
+1 Raffine's Tower (SNC) 254
+1 Xander's Lounge (SNC) 260
+1 Overgrown Farmland (MID) 265
+1 Zagoth Triome (IKO) 259
+1 Temple of Triumph (M21) 256
+1 Sundown Pass (VOW) 266
+1 Elegant Parlor (MKM) 260
+1 Underground Mortuary (MKM) 271
+1 Temple of Malady (M21) 253
+1 Deathcap Glade (VOW) 261
+1 Temple of Malice (THB) 247
+1 Raucous Theater (MKM) 266
+1 Haunted Ridge (MID) 263
+1 Undercity Sewers (MKM) 270
+1 Temple of Deceit (THB) 245
+1 Shipwreck Marsh (MID) 267
+1 Temple of Silence (M21) 255
+1 Shadowy Backstreet (MKM) 268
+1 Shattered Sanctum (VOW) 264
+1 Indatha Triome (IKO) 248
