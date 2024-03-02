@@ -1,0 +1,40 @@
+Deck
+4 Rugged Highlands (MOM) 271
+2 Leafkin Avenger (M21) 220
+2 Thrill of Possibility (STA) 46
+2 Beanstalk Wurm (WOE) 161
+3 End the Festivities (VOW) 155
+2 Ram Through (IKO) 170
+1 Rockfall Vale (MID) 266
+2 Mana Flare (WOT) 46
+1 Growing Rites of Itlimoc (LCI) 188
+2 Fiery Emancipation (WOT) 42
+2 Azusa's Many Journeys (NEO) 172
+7 Mountain (MKM) 284
+2 Cultivate (STA) 51
+1 Temple of Abandon (THB) 244
+2 Up the Beanstalk (WOE) 195
+3 Garruk's Uprising (WOT) 53
+12 Forest (MKM) 286
+2 Boseiju Reaches Skyward (NEO) 177
+3 Adventurous Impulse (STA) 49
+2 Rampaging Brontodon (ANB) 102
+2 Beanstalk Giant (ELD) 149
+1 Cragcrown Pathway (ZNR) 261
+
+Sideboard
+1 Ground Seal (WOT) 54
+1 Pick Your Poison (MKM) 170
+1 Big Play (STX) 122
+1 Crushing Canopy (VOW) 194
+1 Fade into Antiquity (NEO) 182
+1 Stormkeld Vanguard (WOE) 187
+1 Roil Eruption (ZNR) 155
+1 Fully Grown (IKO) 154
+1 Warden of the Chained (THB) 230
+1 Nervous Gardener (MKM) 169
+1 Season of Growth (WOT) 61
+1 Witch's Web (VOW) 227
+1 Exponential Growth (STX) 130
+1 Grinning Ignus (STX) 104
+1 Epic Confrontation (BRO) 176
