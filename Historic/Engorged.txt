@@ -1,9 +1,9 @@
 Deck
 4 Rugged Highlands (MOM) 271
-3 Warden of the Chained (THB) 230
+4 Warden of the Chained (THB) 230
 2 Thrill of Possibility (STA) 46
 2 Beanstalk Wurm (WOE) 161
-3 End the Festivities (VOW) 155
+2 End the Festivities (VOW) 155
 2 Ram Through (IKO) 170
 1 Rockfall Vale (MID) 266
 2 Mana Flare (WOT) 46
@@ -14,9 +14,9 @@ Deck
 1 Temple of Abandon (THB) 244
 2 Up the Beanstalk (WOE) 195
 3 Garruk's Uprising (WOT) 53
-12 Forest (MKM) 286
-2 Boseiju Reaches Skyward (NEO) 177
-3 Adventurous Impulse (STA) 49
+10 Forest (MKM) 286
+3 Boseiju Reaches Skyward (NEO) 177
+4 Adventurous Impulse (STA) 49
 3 Rampaging Brontodon (ANB) 102
 1 Cragcrown Pathway (ZNR) 261
 
