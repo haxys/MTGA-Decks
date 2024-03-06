@@ -17,8 +17,7 @@ Deck
 4 Gruff Triplets (WOE) 172
 2 Boseiju, Who Endures (NEO) 266
 4 Severed Strands (GRN) 85
-2 Ilysian Caryatid (ANB) 98
-1 Primal Vigor (WOT) 59
+3 Ilysian Caryatid (ANB) 98
 2 Unnatural Growth (WOT) 62
 
 Sideboard
@@ -26,9 +25,9 @@ Sideboard
 1 Ilysian Caryatid (ANB) 98
 1 Daemogoth Titan (STX) 174
 1 Undead Butler (VOW) 133
-1 Ilysian Caryatid (ANB) 98
 2 Daemogoth Titan (STX) 174
 1 Blex, Vexing Pest (STX) 148
 1 Infuse with Vitality (STX) 194
 1 Dina, Soul Steeper (STX) 178
 2 Tend the Pests (STX) 242
+1 Primal Vigor (WOT) 59
