@@ -2,45 +2,45 @@
 
 ## Introduction
 
-Welcome to the world of organic deckbuilding in _Magic: The Gathering_, where creativity and personal expression take center stage. This guide is designed to help you explore the art and science of creating decks that are not only competitive but also deeply enjoyable and reflective of your unique style.
+Welcome to the world of organic deckbuilding in _Magic: The Gathering_, where creativity and personal expression are key. This guide helps you explore the art and science of creating decks that are both competitive and enjoyable, reflecting your unique style.
 
 ### Purpose of the Guide
 
-The purpose of this guide is to offer a comprehensive look at an organic and creative approach to deckbuilding in _Magic: The Gathering_. Whether you're new to the game, a seasoned player, or a software developer interested in creating Magic-related applications, this guide will provide valuable insights and practical advice. You'll learn how to build decks that bring joy and excitement to every match while also holding their own in competitive play.
+This guide offers a comprehensive look at an organic and creative approach to deckbuilding in _Magic: The Gathering_. Whether you're new to the game, an experienced player, or a software developer interested in Magic-related applications, this guide provides valuable insights and practical advice. You'll learn to build decks that are fun and exciting, while also competitive.
 
 ### Target Audience
 
 This guide is for:
 
-- **New Players:** Learn the fundamentals of deckbuilding, discover the joy of creating your own decks, and get inspired by unique themes and strategies.
-- **Experienced Players:** Enhance your deckbuilding skills, explore new ideas, and refine your approach with advanced techniques and iterative testing.
-- **Software Developers:** Gain insights into the deckbuilding process that can inform the development of applications and tools for _Magic: The Gathering_.
+- **New Players:** Learn deckbuilding fundamentals, create your own decks, and get inspired by unique themes and strategies.
+- **Experienced Players:** Enhance your deckbuilding skills, explore new ideas, and refine your approach with advanced techniques and testing.
+- **Software Developers:** Gain insights into the deckbuilding process to inform the development of Magic-related applications and tools.
 
 ### Overview of the Deckbuilding Philosophy
 
-This guide is grounded in a philosophy that prioritizes creativity and enjoyment over strict adherence to the metagame. The deckbuilding process is driven by personal inspiration, unique ideas, and the desire to create decks that are enjoyable for both the player and their opponents. The key priorities are:
+This guide prioritizes creativity and enjoyment over strict adherence to the metagame. The process is driven by personal inspiration, unique ideas, and the desire to create decks that are enjoyable for both the player and their opponents. The key priorities are:
 
-1. **Fun to Play:** Ensuring that the deck provides an enjoyable experience for all players involved.
-2. **Interesting Ideas:** Focusing on unique themes and concepts that make each deck distinctive and engaging.
-3. **Competitiveness:** Striving to make the deck powerful enough to hold its own in gameplay while maintaining its thematic integrity.
+1. **Fun to Play:** Ensure the deck provides an enjoyable experience for all players.
+2. **Interesting Ideas:** Focus on unique themes and concepts that make each deck distinctive.
+3. **Competitiveness:** Strive to make the deck powerful enough to hold its own in gameplay while maintaining its thematic integrity.
 
-By following a structured five-stage process—choosing a format, selecting a theme, picking the cards, testing the deck, and revising it—players can develop decks that reflect their personal style and creativity while also performing effectively in various play environments.
+By following a structured five-stage process—choosing a format, selecting a theme, picking the cards, testing the deck, and revising it—players can develop decks that reflect their personal style and creativity while performing effectively in various play environments.
 
 ## Chapter 1: Choosing a Format
 
-Choosing the right format is the foundational step in your deckbuilding journey. Each format in _Magic: The Gathering_ offers unique rules and card pools, which can significantly influence your deck's construction and strategy. Understanding these formats will help you make an informed decision that aligns with your goals and playgroup preferences.
+Choosing the right format is the foundational step in your deckbuilding journey. Each format in _Magic: The Gathering_ offers unique rules and card pools that influence your deck's construction and strategy. Understanding these formats will help you make an informed decision that aligns with your goals and playgroup preferences.
 
 ### Understanding Different Formats
 
-_Magic: The Gathering_ provides a variety of formats, each catering to different playstyles and levels of competitiveness. Let's explore some of the most popular formats:
+_Magic: The Gathering_ provides various formats, each catering to different playstyles and levels of competitiveness. Let's explore some popular formats:
 
 #### Standard
 
-Standard is a rotating format that includes cards from the most recent sets. This format provides a dynamic and evolving metagame, encouraging players to adapt to new cards and strategies. If you enjoy staying up-to-date with the latest releases and trends in the game, Standard is an ideal choice. It offers a fresh and constantly changing environment that challenges you to innovate and stay competitive.
+Standard is a rotating format that includes cards from the most recent sets. This format provides a dynamic and evolving metagame, encouraging players to adapt to new cards and strategies. If you enjoy staying up-to-date with the latest releases and trends, Standard is ideal. It offers a fresh and constantly changing environment that challenges you to innovate and stay competitive.
 
 #### Historic
 
-Historic is a non-rotating format available on MTGA (Magic: The Gathering Arena). It includes a broader selection of cards from various sets, offering a more stable environment compared to Standard. Historic allows for a greater diversity of strategies, making it perfect for players who enjoy using a wider range of cards without the constraints of a rotating format. This format is excellent for exploring powerful synergies and timeless strategies.
+Historic is a non-rotating format available on MTGA (Magic: The Gathering Arena). It includes a broader selection of cards from various sets, offering a more stable environment compared to Standard. Historic allows for greater diversity of strategies, perfect for players who enjoy using a wider range of cards without the constraints of a rotating format. This format is excellent for exploring powerful synergies and timeless strategies.
 
 - **Card Pool:** Historic includes cards from almost all sets available in MTGA, from older sets like _Amonkhet_ to the latest releases. It also includes special anthologies and reprints exclusive to the format.
 - **Synergies:** Due to the expansive card pool, Historic supports a wide array of synergies and archetypes. For example, you can build powerful tribal decks like Elves or Goblins, intricate combo decks using cards like _Mizzix's Mastery_, or strong control decks leveraging _Teferi, Hero of Dominaria_.
@@ -50,7 +50,7 @@ Historic is a non-rotating format available on MTGA (Magic: The Gathering Arena)
 Brawl and Commander are singleton formats, meaning each deck can have only one copy of each card (excluding basic lands). Brawl is similar to Standard but incorporates a Commander element, while Commander is a non-rotating format with a larger card pool. Both formats emphasize unique and creative deckbuilding, often centered around a legendary creature that serves as the deck’s commander. These formats are perfect for players who enjoy thematic and flavorful gameplay, offering a rich canvas for storytelling and strategic depth.
 
 - **Popular Commanders:**
-  - **Atraxa, Praetors' Voice:** Known for her versatility, Atraxa can lead decks focused on proliferate, planeswalkers, or even +1/+1 counters.
+  - **Atraxa, Praetors' Voice:** Known for her versatility, Atraxa can lead decks focused on proliferate, planeswalkers, or +1/+1 counters.
   - **Edgar Markov:** A favorite for Vampire tribal decks, Edgar Markov enables a highly aggressive strategy by creating vampire tokens.
   - **Muldrotha, the Gravetide:** Ideal for graveyard strategies, Muldrotha allows you to play cards from your graveyard, making her a powerful tool for value-driven decks.
 
@@ -70,7 +70,7 @@ Understanding and aligning with your playgroup’s preferences is crucial for a 
 
 ### Conclusion
 
-By carefully considering these factors, you can choose a format that not only suits your personal interests but also enhances the enjoyment and engagement of your entire playgroup. This thoughtful approach sets the stage for a successful and fulfilling deckbuilding experience. Next, we'll explore how to choose a theme for your deck, a crucial step in defining its identity and strategy.
+By carefully considering these factors, you can choose a format that suits your personal interests and enhances the enjoyment of your entire playgroup. This thoughtful approach sets the stage for a successful and fulfilling deckbuilding experience. Next, we'll explore how to choose a theme for your deck, a crucial step in defining its identity and strategy.
 
 ## Chapter 2: Choosing a Theme
 
@@ -86,20 +86,20 @@ Often, inspiration strikes when you encounter interesting or powerful interactio
 
 **Example: The Infinite Combo Deck**
 
-Imagine discovering a powerful combo between two cards that can create an infinite loop, such as _Heliod, Sun-Crowned_ and _Walking Ballista_. This interaction can inspire a deck focused on assembling and protecting this combo, with supporting cards that help you find and execute the combination effectively.
+Imagine discovering a powerful combo between _Heliod, Sun-Crowned_ and _Walking Ballista_ that creates an infinite loop. This can inspire a deck focused on assembling and protecting this combo, with supporting cards that help you find and execute the combination effectively.
 
 **Additional Examples:**
 
-- **Kiki-Jiki, Mirror Breaker + Zealous Conscripts:** This classic combo allows for infinite creature tokens and potential instant win conditions.
-- **Pestermite + Splinter Twin:** Another infinite combo where the goal is to create infinite tokens for a swift victory.
+- **Kiki-Jiki, Mirror Breaker + Zealous Conscripts:** This combo creates infinite creature tokens for potential instant win conditions.
+- **Pestermite + Splinter Twin:** Another combo that creates infinite tokens for a swift victory.
 
 #### Mechanics and Synergies
 
-Mechanics and synergies within a specific set or color combination can provide a rich source of inspiration. For instance, if you notice a recurring mechanic in a new set that aligns with your playstyle, you can build a deck around that mechanic.
+Mechanics and synergies within a specific set or color combination can provide a rich source of inspiration. For instance, if a new set emphasizes a mechanic that aligns with your playstyle, you can build a deck around that mechanic.
 
 **Example: The Proliferate Deck**
 
-If a new set emphasizes the proliferate mechanic, you might build a deck centered around this theme. Cards like _Atraxa, Praetors' Voice_ and _Tezzeret's Gambit_ can form the backbone of a proliferate deck, with supporting cards that create and capitalize on various counters.
+If a set emphasizes the proliferate mechanic, you might build a deck around this theme. Cards like _Atraxa, Praetors' Voice_ and _Tezzeret's Gambit_ can form the backbone of a proliferate deck, with supporting cards that create and capitalize on various counters.
 
 **Additional Examples:**
 
@@ -125,11 +125,11 @@ To further illustrate how themes can be chosen and developed, let's look at two 
 
 **Group Hug Deck:**
 
-The Group Hug deck is built around the motto "Make love, not war." The primary goal is to prevent damage, destruction, and loss of life, effectively locking down the game. Initially, this deck had no win condition, creating a stalemate. However, to ensure the game could be won and remained fun for all players, a powerful finisher was added. This deck emphasizes the importance of balance between theme and playability.
+The Group Hug deck is built around the motto "Make love, not war." The primary goal is to prevent damage, destruction, and loss of life, effectively locking down the game. Initially, this deck had no win condition, creating a stalemate. However, a powerful finisher was added to ensure the game could be won while keeping it fun for all players. This deck emphasizes the importance of balancing theme and playability.
 
 **Dagger Toes (Cat Theme):**
 
-The Dagger Toes deck is centered entirely around cats. All creature cards are cats, and wherever possible, other cards were chosen to maintain the cat theme. Initially, the deck included only cat-related cards, but support spells were added to enhance functionality. This deck demonstrates how to stay true to a theme while making necessary adjustments for competitive play.
+The Dagger Toes deck is centered entirely around cats. All creature cards are cats, and other cards were chosen to maintain the cat theme. Initially, the deck included only cat-related cards, but support spells were added to enhance functionality. This deck demonstrates how to stay true to a theme while making necessary adjustments for competitive play.
 
 ### Balancing Theme and Functionality
 
@@ -147,17 +147,17 @@ By following these guidelines, you can create decks that are not only fun and in
 
 ## Chapter 3: Choosing the Cards
 
-Selecting the right cards for your deck is a critical step in building a successful and enjoyable _Magic: The Gathering_ deck. This process involves considering various factors, from ensuring a balanced Mana Curve to identifying key cards and Synergies. Let's delve into the specifics.
+Selecting the right cards is critical for building a successful and enjoyable _Magic: The Gathering_ deck. This process involves ensuring a balanced Mana Curve and identifying key cards and synergies.
 
 ### Importance of Mana Curve
 
-A well-balanced Mana Curve is crucial for ensuring consistent performance throughout the game. The Mana Curve represents the distribution of cards in your deck based on their mana costs. A balanced Mana Curve helps you play cards efficiently at each stage of the game, reducing the risk of being stuck with unplayable cards or running out of impactful plays.
+A well-balanced Mana Curve ensures consistent performance throughout the game. It represents the distribution of cards in your deck based on their mana costs, helping you play cards efficiently at each stage of the game.
 
-**Early Game (1-2 Mana):** Include enough low-cost cards to ensure you can make plays in the early turns. These cards set up your strategy and help you maintain board presence.
+**Early Game (1-2 Mana):** Include enough low-cost cards to make plays in the early turns. These cards set up your strategy and help you maintain board presence.
 
-**Mid Game (3-5 Mana):** Ensure a strong presence of mid-cost cards that can establish board control and advance your strategy. These cards are often the backbone of your deck, providing significant impact.
+**Mid Game (3-5 Mana):** Ensure a strong presence of mid-cost cards to establish board control and advance your strategy. These cards are often the backbone of your deck, providing significant impact.
 
-**Late Game (6+ Mana):** Include a few high-cost cards that can serve as powerful finishers or game-changers. These cards should provide a significant advantage or a path to victory when played.
+**Late Game (6+ Mana):** Include a few high-cost cards as powerful finishers or game-changers. These cards should provide a significant advantage or a path to victory when played.
 
 **Examples of Balanced Mana Curves:**
 
@@ -176,15 +176,15 @@ A well-balanced Mana Curve is crucial for ensuring consistent performance throug
   - **3-4 Mana:** 10-12 cards (e.g., _Tarmogoyf_, _Liliana of the Veil_)
   - **5+ Mana:** 4-6 cards (e.g., _Siege Rhino_, _Verdurous Gearhulk_)
 
-Regularly review and adjust your Mana Curve during the revision process to maintain balance and consistency. By paying attention to these details, you can create a deck that performs reliably and adapts to various game situations.
+Regularly review and adjust your Mana Curve to maintain balance and consistency.
 
 ### Initial Card Selection
 
-Choosing the right cards involves identifying key cards that define your deck's strategy and finding Synergies that enhance these key cards. This process can be approached in various ways, depending on your goals and the theme of your deck.
+Choosing the right cards involves identifying key cards that define your deck's strategy and finding synergies that enhance these key cards.
 
 #### Key Cards and Synergies
 
-Start by identifying key cards that define your deck’s strategy. These are the cards around which your deck will be built, providing the primary win conditions or essential functions. Look for Synergies that enhance these key cards, creating powerful combinations that can turn the tide of the game in your favor.
+Start by identifying key cards that define your deck’s strategy. These are the cards around which your deck will be built, providing the primary win conditions or essential functions. Look for synergies that enhance these key cards, creating powerful combinations that can turn the tide of the game in your favor.
 
 **Example: Zombie Tribal Deck**
 
@@ -192,20 +192,20 @@ In a Zombie Tribal Deck, key cards might include _Liliana, Death's Majesty_ and 
 
 **Additional Examples:**
 
-- **Merfolk Tribal Deck:** Key cards like _Kumena, Tyrant of Orazca_ and _Merrow Reejerey_ can be supported by _Silvergill Adept_ and _Mist-Cloaked Herald_ to maximize Synergy.
-- **Artifact Combo Deck:** Key cards like _Karn, Scion of Urza_ and _Saheeli, Sublime Artificer_ can be supported by _Servo Schematic_ and _Scrap Trawler_ to enhance artifact Synergies.
+- **Merfolk Tribal Deck:** Key cards like _Kumena, Tyrant of Orazca_ and _Merrow Reejerey_ can be supported by _Silvergill Adept_ and _Mist-Cloaked Herald_ to maximize synergy.
+- **Artifact Combo Deck:** Key cards like _Karn, Scion of Urza_ and _Saheeli, Sublime Artificer_ can be supported by _Servo Schematic_ and _Scrap Trawler_ to enhance artifact synergies.
 
 #### Broad Pool vs. Specific Combinations
 
 Depending on your deckbuilding approach, you may start with a broad pool of cards or focus on specific combinations.
 
-**Broad Pool Approach:** If you’re working with a color challenge or a new set, gather a broad pool of cards within the required colors. From this pool, identify Synergies and key cards that fit your deck's theme and strategy.
+**Broad Pool Approach:** If you’re working with a color challenge or a new set, gather a broad pool of cards within the required colors. From this pool, identify synergies and key cards that fit your deck's theme and strategy.
 
 1. **Gather Cards:** Collect a wide range of cards from your chosen colors or set.
 2. **Identify Synergies:** Look for common mechanics, creature types, or interactions.
 3. **Narrow Down Choices:** Select the most synergistic and impactful cards that fit your theme.
 
-**Specific Combinations Approach:** If you have a particular card combination or special effect in mind, build around those cards. For example, if you're building a deck around the _Aetherworks Marvel_ combo, you'll focus on cards that help you generate energy and find the combo pieces quickly.
+**Specific Combinations Approach:** If you have a particular card combination or special effect in mind, build around those cards. For example, if you're building a deck around the _Aetherworks Marvel_ combo, focus on cards that help you generate energy and find the combo pieces quickly.
 
 1. **Identify Core Combo:** Determine the essential cards for your combo (e.g., _Aetherworks Marvel_ and _Ulamog, the Ceaseless Hunger_).
 2. **Support Cards:** Choose cards that support your combo, like _Servant of the Conduit_ and _Attune with Aether_.
@@ -226,11 +226,11 @@ By selecting versatile and synergistic cards, you can create a deck that is both
 
 ### Conclusion
 
-By carefully selecting your cards with attention to Mana Curve, key Synergies, and versatility, you can build a deck that is both cohesive and competitive. This balance will allow your deck to perform reliably across various game scenarios. Next, we will explore the testing process, which is crucial for refining your deck and ensuring it meets your expectations.
+By carefully selecting your cards with attention to Mana Curve, key synergies, and versatility, you can build a deck that is both cohesive and competitive. This balance will allow your deck to perform reliably across various game scenarios. Next, we will explore the testing process, which is crucial for refining your deck and ensuring it meets your expectations.
 
 ## Chapter 4: Testing the Deck
 
-Testing your deck is a crucial step in refining its performance and identifying areas for improvement. This chapter will guide you through the testing process, from initial trials to playing against human opponents, and emphasize the importance of iterative feedback.
+Testing your deck is crucial for refining its performance and identifying areas for improvement. This chapter will guide you through the testing process, from initial trials to playing against human opponents, emphasizing the importance of iterative feedback.
 
 ### Introduction to Testing Process
 
@@ -246,22 +246,22 @@ Starting with initial testing against Sparky, the built-in bot on MTGA, can prov
 
 **Benefits of Testing Against Bots:**
 
-- **Controlled Environment:** Bots provide a predictable and controlled environment, allowing you to focus on understanding how your deck performs without the variability of human opponents.
-- **Immediate Feedback:** You can quickly play multiple games, gaining immediate feedback on your deck’s strengths and weaknesses.
+- **Controlled Environment:** Bots provide a predictable and controlled environment, allowing you to focus on how your deck performs without the variability of human opponents.
+- **Immediate Feedback:** Quickly play multiple games, gaining immediate feedback on your deck’s strengths and weaknesses.
 - **Safe Experimentation:** It’s a low-stakes way to experiment with different strategies and card combinations, helping you refine your deck before facing human opponents.
 
 **Detailed Testing Steps:**
 
 1. **Set Up Your Deck:** Import your deck into MTGA and select Sparky as your opponent.
 2. **Play Multiple Games:** Aim to play at least 5-10 games to get a good sample size.
-3. **Observe Card Performance:** Note which cards consistently perform well and which ones feel underwhelming or situational.
-4. **Check Mana Curve:** Observe any issues with your Mana Curve, such as being unable to play cards on curve or getting stuck with high-cost cards in the early game.
-5. **Assess Synergy and Combos:** Identify how well your Synergies and combos are working in practice. Are they easy to set up? Do they have a significant impact when executed?
-6. **Record Observations:** Take notes on each game, recording key observations about card performance, mana issues, and Synergy effectiveness.
+3. **Observe Card Performance:** Note which cards consistently perform well and which ones feel underwhelming.
+4. **Check Mana Curve:** Observe any issues with your Mana Curve, such as being unable to play cards on curve or getting stuck with high-cost cards early.
+5. **Assess Synergy and Combos:** Identify how well your synergies and combos work in practice. Are they easy to set up? Do they have a significant impact?
+6. **Record Observations:** Take notes on each game, recording key observations about card performance, mana issues, and synergy effectiveness.
 
 ### Transitioning to Public Play
 
-Once you’ve refined your deck through initial testing, it’s time to transition to public play against human opponents. This phase is critical for gaining deeper insights into your deck’s performance.
+Once you’ve refined your deck through initial testing, transition to public play against human opponents. This phase is critical for gaining deeper insights into your deck’s performance.
 
 **Gathering Insights from Human Opponents:**
 
@@ -278,7 +278,7 @@ Playing against human opponents provides several benefits:
 3. **Record Game Outcomes:** Keep a log of each game, noting the outcome, key moments, and any issues that arose.
 4. **Identify Common Threats:** Pay attention to common threats and strategies used by your opponents. Adjust your deck to better handle these challenges.
 5. **Evaluate Effective Cards:** Note which cards consistently perform well and which ones struggle. Consider replacing underperforming cards with more effective alternatives.
-6. **Refine Overall Strategy:** Evaluate the effectiveness of your overall strategy. Are you achieving your intended goals? Do you need to make significant changes to improve your deck’s performance?
+6. **Refine Overall Strategy:** Evaluate the effectiveness of your overall strategy. Are you achieving your goals? Do you need to make significant changes to improve your deck’s performance?
 
 ### Iterative Testing and Feedback
 
@@ -299,13 +299,13 @@ By following this iterative testing and feedback process, you can continuously r
 
 ## Chapter 5: Revising the Deck
 
-Revising your deck is a crucial step in the deckbuilding process. It involves evaluating your deck's performance and making necessary adjustments to enhance its effectiveness and enjoyment. This chapter will provide criteria for revisions, tips on managing the Sideboard, and practical examples to illustrate these concepts.
+Revising your deck is a crucial step in the deckbuilding process. It involves evaluating your deck's performance and making necessary adjustments to enhance its effectiveness and enjoyment. This chapter provides criteria for revisions, tips on managing the Sideboard, and practical examples to illustrate these concepts.
 
 ### Criteria for Revisions
 
-Revisions should be guided by a set of clear criteria to ensure your deck evolves in a balanced and effective manner. Always keep your core priorities in mind:
+Revisions should be guided by clear criteria to ensure your deck evolves effectively. Keep your core priorities in mind:
 
-1. **Fun to Play:** Ensure that your deck is enjoyable for both you and your opponents. If the deck creates a frustrating or uninteresting experience, consider making changes to enhance the fun factor.
+1. **Fun to Play:** Ensure your deck is enjoyable for both you and your opponents. If the deck creates a frustrating or uninteresting experience, make changes to enhance the fun factor.
 2. **Interesting Ideas:** Maintain the unique themes and concepts that make your deck stand out. While competitiveness is important, preserving the deck's originality and creativity is key.
 3. **Competitiveness:** Aim to make your deck as powerful as possible within the constraints of its theme. Balance is important; ensure your deck can hold its own in various play environments.
 
@@ -313,7 +313,7 @@ Revisions should be guided by a set of clear criteria to ensure your deck evolve
 
 - **Evaluate Performance:** Assess each card's performance based on your playtesting experiences. Determine if it contributes to the deck’s overall strategy and effectiveness.
 - **Consider Alternatives:** If a card consistently underperforms, consider replacing it with a card that offers similar benefits but performs better in practice.
-- **Synergy and Consistency:** Ensure that the replacement card aligns with your deck’s Synergies and overall strategy. Aim for consistency and reliability in your deck’s performance.
+- **Synergy and Consistency:** Ensure the replacement card aligns with your deck’s synergies and overall strategy. Aim for consistency and reliability.
 
 ### Managing the Sideboard
 
@@ -323,7 +323,7 @@ Effective Sideboard management is essential for adapting your deck to different 
 
 When creating your deck, the initial draft typically does not include a Sideboard. As you revise and playtest, develop your Sideboard by:
 - **Adding Removed Cards:** Include cards removed from the main deck during revisions. These cards may still be valuable in specific matchups or situations.
-- **Identifying Key Cards:** Add cards that specifically counter common threats or enhance your deck's performance against certain strategies.
+- **Identifying Key Cards:** Add cards that counter common threats or enhance your deck's performance against certain strategies.
 
 **Full Sideboard Management:**
 
@@ -346,7 +346,7 @@ To illustrate the revision process, let's look at two practical examples: revisi
 
 The Dagger Toes deck, focused on a cat theme, initially included only cat-related cards. Through playtesting, you identified the need for support spells to enhance functionality. Revisions involved:
 - **Adding Support Spells:** Incorporating support spells that complemented the cat theme while enhancing the deck’s competitiveness. For example, adding _Swords to Plowshares_ for efficient removal and _Cultivate_ for mana ramp.
-- **Balancing Theme and Performance:** Ensuring that the deck remained true to its theme while improving its overall performance. This involved finding cat-themed cards that also provided strategic benefits.
+- **Balancing Theme and Performance:** Ensuring the deck remained true to its theme while improving its overall performance. This involved finding cat-themed cards that also provided strategic benefits.
 - **Adjusting Mana Curve:** Revising the Mana Curve to ensure smooth gameplay and consistent performance, adding low-cost creatures for early game presence and high-impact cards for the late game.
 
 **Example Cards Added:**
@@ -374,25 +374,25 @@ By following these criteria and examples, you can effectively revise your deck t
 
 ## Chapter 6: Advanced Techniques
 
-As you gain experience in deckbuilding, you may encounter situations where your deck requires significant changes to stay competitive or to adapt to new challenges. This chapter will cover advanced techniques for handling major overhauls and tracking changes and performance.
+As you gain experience in deckbuilding, you may encounter situations where your deck requires significant changes to stay competitive or adapt to new challenges. This chapter covers advanced techniques for handling major overhauls and tracking changes and performance.
 
 ### Handling Major Overhauls
 
-Major overhauls involve comprehensive adjustments to your deck’s structure and strategy. These changes can be prompted by shifts in the Metagame, the release of new sets, or the realization that your current deck configuration is not performing as expected.
+Major overhauls involve comprehensive adjustments to your deck’s structure and strategy. These changes can be prompted by shifts in the metagame, new set releases, or realizing your current deck configuration is not performing as expected.
 
 #### Adjusting Color Identity and Mana Ratios
 
-One of the most significant changes you can make to a deck is adjusting its Color Identity and Mana Ratios. This can drastically alter your deck's strategy and playstyle.
+One significant change you can make to a deck is adjusting its color identity and mana ratios. This can drastically alter your deck's strategy and playstyle.
 
 **Color Identity:**
 
-- **Reevaluate Colors:** Assess whether your current color combination aligns with your strategic goals. Consider adding or removing colors to enhance Synergy or address weaknesses.
-- **New Color Combinations:** Experiment with new color combinations to discover untapped Synergies and strategies. For example, transitioning from a mono-colored deck to a two-color deck can provide access to a wider range of cards and abilities.
+- **Reevaluate Colors:** Assess whether your current color combination aligns with your strategic goals. Consider adding or removing colors to enhance synergy or address weaknesses.
+- **New Color Combinations:** Experiment with new color combinations to discover untapped synergies and strategies. For example, transitioning from a mono-colored deck to a two-color deck can provide access to a wider range of cards and abilities.
 
 **Mana Ratios:**
 
-- **Adjusting Mana Base:** Ensure that your Mana Base reflects changes in Color Identity. Use tools like mana calculators to optimize your Mana Base, ensuring you have the right balance of mana sources to support your deck's revised color requirements.
-- **Including Dual Lands:** Incorporate dual lands and mana-fixing cards to improve the consistency of your Mana Base, especially when adding new colors.
+- **Adjusting Mana Base:** Ensure that your mana base reflects changes in color identity. Use tools like mana calculators to optimize your mana base, ensuring you have the right balance of mana sources to support your deck's revised color requirements.
+- **Including Dual Lands:** Incorporate dual lands and mana-fixing cards to improve the consistency of your mana base, especially when adding new colors.
 
 #### Incorporating New Sets and Expansions
 
@@ -401,33 +401,19 @@ As new sets and expansions are released, updating your deck to include powerful 
 **Evaluate New Cards:**
 
 - **Review New Sets:** Stay informed about new sets and expansions. Evaluate new cards to identify those that can enhance your deck’s strategy.
-- **Synergies with Existing Cards:** Look for cards that fit your theme, provide versatile options, or offer strong Synergies with existing cards. For example, a new set might introduce a powerful creature that fits perfectly into your deck’s strategy.
+- **Synergies with Existing Cards:** Look for cards that fit your theme, provide versatile options, or offer strong synergies with existing cards. For example, a new set might introduce a powerful creature that fits perfectly into your deck’s strategy.
 
 **Detailed Integration Process:**
 
-1. **Review the Set:**
-   - Read spoilers and set reviews from trusted sources.
-   - Watch videos or read articles on how new mechanics and cards interact with existing ones.
-
-2. **Identify Potential Cards:**
-   - Make a list of cards that could fit into your deck.
-   - Consider how these cards could enhance your current strategy or offer new Synergies.
-
-3. **Test New Cards:**
-   - Add the new cards to your deck and test their performance.
-   - Playtest extensively to see how the new cards affect your deck's dynamics.
-
-4. **Adjust the Deck:**
-   - If a new card performs well, integrate it into your main deck.
-   - Adjust your Mana Base if new color requirements are introduced.
-
-5. **Monitor Performance:**
-   - Continuously evaluate the deck’s performance with the new additions.
-   - Be prepared to make further adjustments based on playtesting results.
+1. **Review the Set:** Read spoilers and set reviews from trusted sources. Watch videos or read articles on how new mechanics and cards interact with existing ones.
+2. **Identify Potential Cards:** Make a list of cards that could fit into your deck. Consider how these cards could enhance your current strategy or offer new synergies.
+3. **Test New Cards:** Add the new cards to your deck and test their performance. Playtest extensively to see how the new cards affect your deck's dynamics.
+4. **Adjust the Deck:** If a new card performs well, integrate it into your main deck. Adjust your mana base if new color requirements are introduced.
+5. **Monitor Performance:** Continuously evaluate the deck’s performance with the new additions. Be prepared to make further adjustments based on playtesting results.
 
 **Stay Current:**
 
-- **Keep Updating:** Regularly update your deck with new cards to keep it competitive and aligned with the evolving Metagame. This proactive approach helps you stay ahead of the curve and maintain a strong deck.
+- **Keep Updating:** Regularly update your deck with new cards to keep it competitive and aligned with the evolving metagame. This proactive approach helps you stay ahead of the curve and maintain a strong deck.
 
 ### Tracking Changes and Performance
 
@@ -454,28 +440,12 @@ Using version control systems like Git can help you track changes and document r
 
 **Practical Steps for Setting Up a Git Repository:**
 
-1. **Install Git:**
-   - Download and install Git from [git-scm.com](https://git-scm.com/).
-
-2. **Initialize a Repository:**
-   - Navigate to the directory where you want to store your decklists.
-   - Run the command: `git init`
-
-3. **Add Files:**
-   - Add your decklist files to the repository.
-   - Run the command: `git add .`
-
-4. **Commit Changes:**
-   - Commit your changes with a descriptive message.
-   - Run the command: `git commit -m "Initial commit with base decklist"`
-
-5. **Create Branches:**
-   - Create a new branch for major overhauls.
-   - Run the command: `git checkout -b "new-branch-name"`
-
-6. **Merge Changes:**
-   - After testing, merge successful changes back to the main branch.
-   - Run the command: `git checkout main` followed by `git merge "new-branch-name"`
+1. **Install Git:** Download and install Git from [git-scm.com](https://git-scm.com/).
+2. **Initialize a Repository:** Navigate to the directory where you want to store your decklists. Run the command: `git init`
+3. **Add Files:** Add your decklist files to the repository. Run the command: `git add .`
+4. **Commit Changes:** Commit your changes with a descriptive message. Run the command: `git commit -m "Initial commit with base decklist"`
+5. **Create Branches:** Create a new branch for major overhauls. Run the command: `git checkout -b "new-branch-name"`
+6. **Merge Changes:** After testing, merge successful changes back to the main branch. Run the command: `git checkout main` followed by `git merge "new-branch-name"`
 
 #### Practical Tips for Documenting Revisions
 
@@ -483,7 +453,7 @@ Effective documentation helps you understand the evolution of your deck and make
 
 **Change Logs:**
 
-- **Maintain Change Logs:** Keep a change log to document all revisions, including card additions, removals, and adjustments to the Mana Base. Note the reasons for each change and the results observed during playtesting.
+- **Maintain Change Logs:** Keep a change log to document all revisions, including card additions, removals, and adjustments to the mana base. Note the reasons for each change and the results observed during playtesting.
 
 **Performance Notes:**
 
@@ -496,29 +466,29 @@ Effective documentation helps you understand the evolution of your deck and make
 
 ### Conclusion
 
-By handling major overhauls thoughtfully and tracking changes meticulously, you can maintain a high level of performance and adaptability in your deck. These advanced techniques ensure that your deck remains competitive and aligned with your strategic goals, regardless of the evolving Metagame and new card releases. Next, we will wrap up with some final thoughts on embracing the organic process of deckbuilding and continuous learning.
+By handling major overhauls thoughtfully and tracking changes meticulously, you can maintain a high level of performance and adaptability in your deck. These advanced techniques ensure that your deck remains competitive and aligned with your strategic goals, regardless of the evolving metagame and new card releases. Next, we will wrap up with some final thoughts on embracing the organic process of deckbuilding and continuous learning.
 
 ## Chapter 7: Final Thoughts
 
 ### Embracing the Organic Process
 
-Deckbuilding in _Magic: The Gathering_ is as much an art as it is a science. Embracing an organic process means allowing your creativity and intuition to guide you. This approach encourages exploration and experimentation, leading to the creation of unique and personal decks. Be flexible and adaptive, as the most successful decks often evolve through continuous play and revision.
+Deckbuilding in _Magic: The Gathering_ is both an art and a science. Embracing an organic process means allowing your creativity and intuition to guide you. This approach encourages exploration and experimentation, leading to unique and personal decks. Be flexible and adaptive, as the most successful decks often evolve through continuous play and revision.
 
 ### Encouraging Creativity and Fun
 
-The heart of deckbuilding lies in creativity and fun. Strive to create decks that bring joy to both you and your opponents. Innovative ideas and unconventional strategies can lead to some of the most memorable and enjoyable decks. Balance gameplay to ensure it is challenging yet engaging, providing a positive experience regardless of the outcome.
+The heart of deckbuilding lies in creativity and fun. Strive to create decks that bring joy to both you and your opponents. Innovative ideas and unconventional strategies can lead to memorable and enjoyable decks. Balance gameplay to ensure it is challenging yet engaging, providing a positive experience regardless of the outcome.
 
 **Innovative Ideas:**
 
-- **Unconventional Themes:** Experiment with themes that are not commonly seen in the Metagame. For example, a "Food Token" deck centered around cards from _Throne of Eldraine_ with _Gilded Goose_ and _Feasting Troll King_ can provide unique interactions.
+- **Unconventional Themes:** Experiment with themes not commonly seen in the metagame. For example, a "Food Token" deck centered around cards from _Throne of Eldraine_ with _Gilded Goose_ and _Feasting Troll King_ can provide unique interactions.
 - **Mechanics Exploration:** Build decks around less popular mechanics. For instance, a "Morph" deck using cards from sets like _Khans of Tarkir_ and _Onslaught_ to surprise opponents with face-down creatures.
 - **Crossover Decks:** Create thematic decks that blend different genres or stories, such as a "Superheroes" deck using cards that represent various heroes and their abilities.
 
 **Balanced Gameplay:**
 
-- **Diverse Threats and Answers:** Ensure your deck has a variety of threats and answers to maintain balance. This can include having a mix of creatures, removal spells, and card draw.
-- **Consistent Mana Base:** Build a consistent Mana Base to avoid color screw. Use dual lands, fetch lands, and mana-fixing artifacts to stabilize your mana.
-- **Playtesting and Adjustments:** Regularly playtest your deck to identify any weaknesses and make adjustments. Gather feedback from different opponents to ensure a well-rounded gameplay experience.
+- **Diverse Threats and Answers:** Ensure your deck has a variety of threats and answers to maintain balance. This includes having a mix of creatures, removal spells, and card draw.
+- **Consistent Mana Base:** Build a consistent mana base to avoid color screw. Use dual lands, fetch lands, and mana-fixing artifacts to stabilize your mana.
+- **Playtesting and Adjustments:** Regularly playtest your deck to identify weaknesses and make adjustments. Gather feedback from different opponents to ensure a well-rounded gameplay experience.
 
 **Community Engagement:**
 
@@ -538,7 +508,7 @@ Deckbuilding is a continuous journey of learning and improvement. Embrace the pr
 **Stay Informed:**
 
 - **New Sets and Mechanics:** Keep up with new sets, mechanics, and trends in the _Magic: The Gathering_ community. This helps you adapt your strategies and incorporate fresh ideas into your decks.
-- **Meta Analysis:** Study the current Meta to understand the most popular decks and strategies. This knowledge can help you build decks that are both innovative and competitive.
+- **Meta Analysis:** Study the current meta to understand the most popular decks and strategies. This knowledge can help you build decks that are both innovative and competitive.
 
 **Seek Feedback:**
 
@@ -557,7 +527,7 @@ In this guide, we have explored an organic and creative approach to deckbuilding
 
 1. **Choosing a Format:** Select a format that aligns with your playgroup and goals, understanding the unique characteristics of formats like Standard, Historic, and Commander.
 2. **Choosing a Theme:** Draw inspiration from card interactions, mechanics, and personal ideas. Balance thematic elements with functionality to create cohesive and enjoyable decks.
-3. **Choosing the Cards:** Focus on key cards and Synergies, build a balanced Mana Curve, and select versatile cards to adapt to various game situations.
+3. **Choosing the Cards:** Focus on key cards and synergies, build a balanced Mana Curve, and select versatile cards to adapt to various game situations.
 4. **Testing the Deck:** Start with initial testing against bots, transition to public play, and iterate based on feedback to refine your deck’s performance.
 5. **Revising the Deck:** Regularly evaluate and update your deck, manage the Sideboard effectively, and handle major overhauls with a strategic approach.
 6. **Advanced Techniques:** Adjust Color Identity and Mana Ratios, incorporate new sets, track changes with Git, and document revisions to maintain a high-performing deck.
@@ -593,21 +563,21 @@ Understanding the terminology used in _Magic: The Gathering_ is essential for ef
   - **Example:** A Standard Metagame might be dominated by aggressive Red decks and control Blue-White decks.
 - **Sideboard:** A set of additional cards that a player can swap into their deck between games in a match to better handle specific matchups. Typically used in best-of-three matches.
   - **Example:** Including extra artifact removal in your Sideboard to deal with artifact-heavy decks.
-- **Tribal Deck:** A deck built around a specific creature type, such as elves, goblins, or cats. Tribal Decks leverage Synergies among creatures of the same type.
+- **Tribal Deck:** A deck built around a specific creature type, such as elves, goblins, or cats. Tribal Decks leverage synergies among creatures of the same type.
   - **Example:** An Elf Deck featuring _Elvish Archdruid_ and _Llanowar Elves_.
 - **Win Condition:** The primary strategy or card(s) that a deck relies on to win the game. Win Conditions vary widely depending on the deck's strategy.
   - **Example:** _Thassa's Oracle_ in a deck designed to mill itself.
 - **Singleton:** A format or rule in which only one copy of each card (excluding basic lands) is allowed in the deck. This promotes variety and creativity in deckbuilding.
   - **Example:** The Commander format is a popular Singleton format.
-- **Commander:** A legendary creature that serves as the leader of a Commander deck, determining the deck’s Color Identity and often influencing its strategy.
+- **Commander:** A legendary creature that serves as the leader of a Commander deck, determining the deck’s color identity and often influencing its strategy.
   - **Example:** _Atraxa, Praetors' Voice_ for a proliferate-focused deck.
-- **Control Deck:** A deck designed to control the pace of the game, often by countering spells, removing threats, and drawing cards until it can establish a Win Condition.
+- **Control Deck:** A deck designed to control the pace of the game, often by countering spells, removing threats, and drawing cards until it can establish a win condition.
   - **Example:** A Blue-White Control Deck using _Counterspell_ and _Wrath of God_.
 - **Aggro Deck:** A deck focused on aggressive, fast-paced strategies, aiming to deal damage quickly and overwhelm the opponent.
   - **Example:** A Mono-Red Aggro Deck with _Goblin Guide_ and _Lightning Bolt_.
 - **Midrange Deck:** A deck that balances elements of control and aggro, typically featuring powerful, efficient creatures and spells.
   - **Example:** A Jund Midrange Deck using _Tarmogoyf_ and _Liliana of the Veil_.
-- **Combo Deck:** A deck built around specific card combinations that create powerful interactions, often leading to a Win Condition.
+- **Combo Deck:** A deck built around specific card combinations that create powerful interactions, often leading to a win condition.
   - **Example:** A deck using _Splinter Twin_ and _Pestermite_ to create infinite creature tokens.
 
 ### Additional Resources
@@ -617,9 +587,9 @@ To further enhance your deckbuilding skills and knowledge, explore these online 
 #### Online Tools
 
 - **MTG Arena (MTGA):** A digital platform for playing _Magic: The Gathering_, offering tools for deckbuilding and playtesting.
-- **MTGGoldfish:** A comprehensive website providing decklists, Metagame analysis, card prices, and articles on deckbuilding strategies.
+- **MTGGoldfish:** A comprehensive website providing decklists, metagame analysis, card prices, and articles on deckbuilding strategies.
 - **TappedOut:** A community-driven site where you can build and share decks, receive feedback, and see popular decklists.
-- **EDHREC:** A valuable resource for Commander players, offering data on popular Commanders, decklists, and card Synergies.
+- **EDHREC:** A valuable resource for Commander players, offering data on popular Commanders, decklists, and card synergies.
 - **Scryfall:** A powerful search engine for finding Magic cards, including advanced filters for detailed searches.
 - **MTG Decks:** A site that aggregates decklists from various tournaments and formats, providing insights into competitive play.
 
