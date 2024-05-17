@@ -1,5 +1,11 @@
 # Organic Deckbuilding in Magic: The Gathering
 
+## About this Guide
+
+This guide started as a conversation between [Kris10](https://github.com/haxys) and ChatGPT, wherein Kris10 discussed her specific approach to deckbuilding in Magic: The Gathering. She then tasked ChatGPT with turning her approach into a comprehensive guide for new and experienced players alike. The guide's content was planned, outlined, and written by ChatGPT, with Kris10 providing feedback and guidance throughout the process. Once it was written, Kris10 walked ChatGPT through the step-by-step process of reviewing, critiquing, and revising the entire manuscript, enabling ChatGPT to improve upon its original work. The result is a detailed guide that covers the entire deckbuilding process, from choosing a format to testing the deck and making revisions.
+
+Please bear in mind that the following content was written by ChatGPT, with Kris10 providing guidance and feedback. There are doubtless factual inaccuracies and areas where the content could be improved. Now that the guide is written, Kris10 will be able to review and revise it further, ensuring logical and factual accuracy. Until that time, however, this should be considered a work of fiction.
+
 ## Introduction
 
 Welcome to the world of organic deckbuilding in _Magic: The Gathering_, where creativity and personal expression are key. This guide helps you explore the art and science of creating decks that are both competitive and enjoyable, reflecting your unique style.
