@@ -1,8 +1,8 @@
 Deck
-4 Dog Walker (MKM) 197
+3 Dog Walker (MKM) 197
 4 Mountain (OTJ) 284
 5 Forest (OTJ) 286
-3 Riftburst Hellion (MKM) 228
+2 Riftburst Hellion (MKM) 228
 8 Plains (OTJ) 278
 2 Hurloon Battle Hymn (DMU) 131
 1 Sacred Fire (MID) 239
@@ -10,7 +10,7 @@ Deck
 1 Meddling Youths (MKM) 219
 3 Wind-Scarred Crag (MOM) 276
 4 Blossoming Sands (MOM) 268
-3 Crowd-Control Warden (MKM) 193
+2 Crowd-Control Warden (MKM) 193
 2 Buried in the Garden (MKM) 191
 2 Dawnhart Wardens (MID) 216
 1 Cosmic Rebirth (MAT) 28
@@ -21,4 +21,12 @@ Deck
 2 Juniper Order Rootweaver (DMU) 22
 1 Tarkir Duneshaper (MOM) 43
 3 Brokers Initiate (SNC) 5
+2 Akki War Paint (NEO) 132
+1 Ash, Party Crasher (WOE) 201
+2 Child of the Pack (VOW) 234
+
+Sideboard
+1 Riftburst Hellion (MKM) 228
+1 Crowd-Control Warden (MKM) 193
+1 Dog Walker (MKM) 197
 2 Viashino Branchrider (DMU) 150
