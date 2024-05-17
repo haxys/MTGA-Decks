@@ -1,0 +1,27 @@
+Deck
+3 Piercing Light (VOW) 30
+24 Plains (LTR) 263
+2 Lunarch Veteran (MID) 27
+3 Mothrider Patrol (NEO) 30
+2 Era of Enlightenment (NEO) 11
+2 Twinblade Geist (VOW) 40
+3 Frostbridge Guard (WOE) 14
+3 Adamant Will (VOW) 1
+2 Kindly Ancestor (VOW) 22
+2 Mourning Patrol (MID) 28
+4 Solitary Sanctuary (WOE) 30
+2 Bola Slinger (MOM) 8
+2 Besotted Knight (WOE) 4
+2 Befriending the Moths (NEO) 4
+1 Nebelgast Beguiler (VOW) 25
+2 Angelic Quartermaster (VOW) 2
+1 Imperial Oath (NEO) 17
+
+Sideboard
+1 Lucky Offering (NEO) 27
+1 Planar Disruption (ONE) 28
+1 Borrowed Time (MID) 6
+1 Repel the Vile (NEO) 33
+1 Heron of Hope (VOW) 18
+1 Charmed Clothier (WOE) 6
+1 Valorous Stance (VOW) 42
