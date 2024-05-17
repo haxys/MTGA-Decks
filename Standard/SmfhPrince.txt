@@ -1,0 +1,24 @@
+Deck
+4 Dog Walker (MKM) 197
+4 Mountain (OTJ) 284
+5 Forest (OTJ) 286
+3 Riftburst Hellion (MKM) 228
+8 Plains (OTJ) 278
+2 Hurloon Battle Hymn (DMU) 131
+1 Sacred Fire (MID) 239
+1 Markov Waltzer (VOW) 242
+1 Meddling Youths (MKM) 219
+3 Wind-Scarred Crag (MOM) 276
+4 Blossoming Sands (MOM) 268
+3 Crowd-Control Warden (MKM) 193
+2 Buried in the Garden (MKM) 191
+2 Dawnhart Wardens (MID) 216
+1 Cosmic Rebirth (MAT) 28
+3 Join the Dance (MID) 229
+1 Sumala Sentry (MKM) 233
+2 Strength of the Coalition (DMU) 180
+2 Woodland Acolyte (WOE) 241
+2 Juniper Order Rootweaver (DMU) 22
+1 Tarkir Duneshaper (MOM) 43
+3 Brokers Initiate (SNC) 5
+2 Viashino Branchrider (DMU) 150
