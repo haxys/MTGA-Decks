@@ -1,0 +1,67 @@
+Commander
+1 Thalia and The Gitrog Monster (MOM) 255
+
+Deck
+1 Polukranos, Unchained (THB) 224
+1 Clay Champion (BRO) 230
+1 Fearless Fledgling (ZNR) 15
+1 Makindi Ox (ZNR) 25
+1 Lotus Cobra (ZNR) 193
+1 Evolution Sage (WAR) 159
+1 Kazandu Mammoth (ZNR) 189
+1 Canopy Baloth (ZNR) 182
+1 Nissa, Resurgent Animist (MAT) 22
+1 Dance of the Tumbleweeds (OTJ) 160
+1 Emergent Sequence (STX) 129
+1 Cultivate (STA) 51
+1 Fertilid (JMP) 398
+8 Plains (OTJ) 278
+1 They Went This Way (MKM) 178
+1 Fertilid's Favor (MOM) 186
+1 Map the Frontier (OTJ) 170
+1 Beanstalk Giant (ELD) 149
+1 Vastwood Surge (ZNR) 217
+20 Forest (OTJ) 286
+1 Zar Ojanen, Scion of Efrava (DMU) 227
+1 Beledros Witherbloom (STX) 163
+1 Argothian Uprooting (Y23) 12
+1 Cultivator Colossus (VOW) 195
+1 Prismatic Omen (WOT) 60
+1 Kura, the Boundless Sky (NEO) 200
+1 Ashaya, Soul of the Wild (ZNR) 179
+1 Leyline Invocation (STX) 136
+1 Nishoba Brawler (DMU) 174
+1 Blossoming Tortoise (WOE) 163
+1 Azusa's Many Journeys (NEO) 172
+1 Scale the Heights (ZNR) 202
+1 Beanstalk Wurm (WOE) 161
+1 Vona de Iedo, the Antifex (Y24) 28
+1 Shadrix Silverquill (STX) 230
+1 Liesa, Forgotten Archangel (MID) 232
+1 Drana and Linvala (MOM) 222
+1 Massacre Wurm (M21) 114
+1 Sanguine Bond (WOT) 35
+1 Terror of Towashi (MOM) 331
+1 Phyrexian Obliterator (ONE) 105
+1 Realm-Cloaked Giant (ELD) 26
+1 Valkyrie Harbinger (KHM) 374
+1 Angelic Guardian (ANB) 2
+1 Torens, Fist of the Angels (VOW) 249
+1 Old Stickfingers (MID) 234
+1 Sarulf, Realm Eater (KHM) 228
+1 Pearl Collector (Y24) 10
+1 Murderous Rider (ELD) 97
+1 Vadmir, New Blood (OTJ) 113
+1 Reezug, the Bonecobbler (Y23) 10
+11 Swamp (OTJ) 282
+1 Sandsteppe Citadel (KTK) 241
+1 Indatha Triome (IKO) 248
+1 Overgrown Farmland (MID) 265
+1 Branchloft Pathway (ZNR) 258
+1 Temple of Plenty (THB) 248
+1 Temple of Malady (M21) 253
+1 Darkbore Pathway (KHM) 254
+1 Deathcap Glade (VOW) 261
+1 Temple of Silence (M21) 255
+1 Shattered Sanctum (VOW) 264
+1 Brightclimb Pathway (ZNR) 259
