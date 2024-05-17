@@ -159,22 +159,34 @@ A well-balanced Mana Curve ensures consistent performance throughout the game. I
 
 **Late Game (6+ Mana):** Include a few high-cost cards as powerful finishers or game-changers. These cards should provide a significant advantage or a path to victory when played.
 
-**Examples of Balanced Mana Curves:**
+#### Examples of Common Mana Curves
 
-- **Aggro Deck:** 
-  - **1-2 Mana:** 12-16 cards (e.g., _Goblin Guide_, _Zurgo Bellstriker_)
-  - **3-4 Mana:** 8-10 cards (e.g., _Lightning Bolt_, _Goblin Chieftain_)
-  - **5+ Mana:** 0-2 cards (e.g., _Thundermaw Hellkite_)
-  
-- **Control Deck:** 
-  - **1-2 Mana:** 6-8 cards (e.g., _Opt_, _Counterspell_)
-  - **3-4 Mana:** 10-12 cards (e.g., _Supreme Verdict_, _Teferi, Time Raveler_)
-  - **5+ Mana:** 6-8 cards (e.g., _Torrential Gearhulk_, _Sphinx's Revelation_)
-  
-- **Midrange Deck:**
-  - **1-2 Mana:** 8-10 cards (e.g., _Llanowar Elves_, _Thoughtseize_)
-  - **3-4 Mana:** 10-12 cards (e.g., _Tarmogoyf_, _Liliana of the Veil_)
-  - **5+ Mana:** 4-6 cards (e.g., _Siege Rhino_, _Verdurous Gearhulk_)
+**Aggro Deck:** Aggro decks prioritize fast, aggressive strategies, using low-cost creatures and spells to apply early pressure.
+
+- **1 Mana:** 8-12 cards (e.g., _Goblin Guide_, _Llanowar Elves_)
+- **2 Mana:** 8-12 cards (e.g., _Lightning Bolt_, _Scorch Spitter_)
+- **3 Mana:** 4-8 cards (e.g., _Anax, Hardened in the Forge_, _Goblin Chainwhirler_)
+- **4 Mana:** 0-4 cards (e.g., _Embercleave_)
+- **5+ Mana:** 0-2 cards (optional)
+- **Lands:** 20-22 lands
+
+**Control Deck:** Control decks manage the game by neutralizing threats and deploying powerful, high-cost spells to win in the late game.
+
+- **1 Mana:** 4-6 cards (e.g., _Opt_, _Fatal Push_)
+- **2 Mana:** 6-10 cards (e.g., _Counterspell_, _Azorius Charm_)
+- **3 Mana:** 8-12 cards (e.g., _Supreme Verdict_, _Narset, Parter of Veils_)
+- **4 Mana:** 6-10 cards (e.g., _Wrath of God_, _Jace, the Mind Sculptor_)
+- **5+ Mana:** 6-8 cards (e.g., _Teferi, Hero of Dominaria_, _Torrential Gearhulk_)
+- **Lands:** 25-27 lands
+
+**Midrange Deck:** Midrange decks balance elements of aggro and control, with efficient creatures and spells for various game stages.
+
+- **1 Mana:** 6-8 cards (e.g., _Thoughtseize_, _Llanowar Elves_)
+- **2 Mana:** 6-8 cards (e.g., _Scavenging Ooze_, _Sylvan Advocate_)
+- **3 Mana:** 8-10 cards (e.g., _Tarmogoyf_, _Liliana of the Veil_)
+- **4 Mana:** 4-8 cards (e.g., _Siege Rhino_, _Chandra, Torch of Defiance_)
+- **5+ Mana:** 4-6 cards (e.g., _Verdurous Gearhulk_, _Doom Whisperer_)
+- **Lands:** 23-25 lands
 
 Regularly review and adjust your Mana Curve to maintain balance and consistency.
 
