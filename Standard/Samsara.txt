@@ -1,0 +1,31 @@
+Deck
+3 Lich-Knights' Conquest (WOE) 96
+7 Forest (LTR) 271
+3 Ghoulcaller's Harvest (MID) 225
+7 Swamp (LTR) 267
+4 Old Rutstein (VOW) 244
+4 Crawling Infestation (VOW) 193
+2 Boseiju, Who Endures (NEO) 266
+3 Cult Conscript (DMU) 88
+2 Urborg Repossession (DMU) 114
+2 Unseal the Necropolis (MOM) 128
+3 Terror of Towashi (MOM) 331
+2 Dreadhound (MID) 97
+2 Takenuma, Abandoned Mire (NEO) 278
+3 Deathbonnet Sprout (MID) 181
+3 Reclusive Taxidermist (VOW) 214
+3 Mulch (VOW) 210
+3 Conduit of Worlds (ONE) 163
+4 Deathcap Glade (VOW) 261
+
+Sideboard
+1 Titania's Command (BRO) 194
+1 Greater Tanuki (NEO) 189
+1 Testament Bearer (ONE) 111
+1 Spring-Leaf Avenger (NEO) 208
+1 Eccentric Farmer (MID) 185
+1 Retrieve (VOW) 215
+1 Breach the Multiverse (MOM) 94
+1 Moldgraf Millipede (VOW) 209
+1 Ragged Recluse (VOW) 127
+1 Shigeki, Jukai Visionary (NEO) 206
