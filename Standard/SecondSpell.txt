@@ -1,0 +1,28 @@
+Deck
+3 Razzle-Dazzler (OTJ) 63
+8 Mountain (OTJ) 284
+3 Iron-Fist Pulverizer (OTJ) 131
+11 Island (OTJ) 280
+2 Breeches, the Blastmaker (OTJ) 197
+4 Kraum, Violent Cacophony (OTJ) 214
+3 Archmage's Newt (OTJ) 39
+3 Slickshot Lockpicker (OTJ) 67
+1 Fleeting Reflection (OTJ) 49
+2 Phantom Interference (OTJ) 61
+2 Jailbreak Scheme (OTJ) 53
+3 Explosive Derailment (OTJ) 122
+2 Quick Draw (OTJ) 138
+3 Highway Robbery (OTJ) 129
+2 Mirage Mesa (OTJ) 262
+1 Lonely Arroyo (OTJ) 260
+1 Eroded Canyon (OTJ) 256
+1 Abraded Bluffs (OTJ) 251
+2 Seize the Secrets (OTJ) 64
+3 Take the Fall (OTJ) 73
+
+Sideboard
+1 Phantom Interference (OTJ) 61
+1 Jailbreak Scheme (OTJ) 53
+1 Explosive Derailment (OTJ) 122
+1 Iron-Fist Pulverizer (OTJ) 131
+1 Slickshot Lockpicker (OTJ) 67
