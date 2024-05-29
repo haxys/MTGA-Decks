@@ -1,0 +1,51 @@
+Main Deck (130)
+
+Creatures(51)
+
+2 Ecstatic Awakener // Awoken Demon
+2 Tormented Soul
+2 Grim Wanderer
+2 Sepulcher Ghoul
+3 Skirsdag High Priest
+2 Undead Butler
+2 Callous Bloodmage
+2 Morbid Opportunist
+2 Plague Reaver
+2 Royal Assassin
+2 Vampire Spawn
+1 Disciple of Bolas
+8 Gravedigger
+2 Magus of the Abyss
+1 Bloodtithe Collector
+2 Morkrut Behemoth
+2 Rot-Tide Gargantua
+1 Titan Hunter
+1 Champion of Stray Souls
+1 Extractor Demon
+3 Gempalm Polluter
+1 Rune-Scarred Demon
+2 Sutured Ghoul
+3 Necropolis Fiend
+
+Spells(29)
+
+1 Necrogoyf
+4 Raise Dead
+4 Altar's Reap
+2 Consume Spirit
+2 Blood Pact
+1 Sword-Point Diplomacy
+1 Victimize
+1 Ashen Powder
+2 Crushing Disappointment
+1 Foul Renewal
+2 Launch Party
+2 Eliminate the Competition
+1 Increasing Ambition
+1 Infernal Offering
+1 Szat's Will
+3 Undercity Plague
+
+Lands(50)
+
+50 Swamp
