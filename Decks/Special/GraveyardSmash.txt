@@ -1,40 +1,40 @@
 Main Deck (130)
 
-Creatures(51)
+Creatures(47)
 
 2 Ecstatic Awakener // Awoken Demon
-2 Tormented Soul
+3 Persistent Specimen
+2 Typhoid Rats
+2 Viscera Seer
 2 Grim Wanderer
-2 Sepulcher Ghoul
-3 Skirsdag High Priest
 2 Undead Butler
 2 Callous Bloodmage
 2 Morbid Opportunist
 2 Plague Reaver
-2 Royal Assassin
 2 Vampire Spawn
 1 Disciple of Bolas
 8 Gravedigger
-2 Magus of the Abyss
 1 Bloodtithe Collector
-2 Morkrut Behemoth
 2 Rot-Tide Gargantua
 1 Titan Hunter
+4 Unhallowed Phalanx
 1 Champion of Stray Souls
 1 Extractor Demon
 3 Gempalm Polluter
-1 Rune-Scarred Demon
 2 Sutured Ghoul
-3 Necropolis Fiend
+2 Necropolis Fiend
 
-Spells(29)
+Spells(33)
 
 1 Necrogoyf
-4 Raise Dead
+2 Eaten Alive
+2 Tragic Slip
 4 Altar's Reap
+4 Bladebrand
 2 Consume Spirit
+2 Aim for the Head
 2 Blood Pact
-1 Sword-Point Diplomacy
+2 Defenestrate
 1 Victimize
 1 Ashen Powder
 2 Crushing Disappointment
@@ -44,8 +44,25 @@ Spells(29)
 1 Increasing Ambition
 1 Infernal Offering
 1 Szat's Will
-3 Undercity Plague
 
 Lands(50)
 
 50 Swamp
+
+Sideboard (30)
+
+1 Persistent Specimen
+2 Sanitarium Skeleton
+2 Tormented Soul
+2 Typhoid Rats
+2 Sepulcher Ghoul
+3 Skirsdag High Priest
+2 Royal Assassin
+2 Magus of the Abyss
+2 Morkrut Behemoth
+1 Rune-Scarred Demon
+1 Necropolis Fiend
+4 Raise Dead
+2 Tragic Slip
+1 Sword-Point Diplomacy
+3 Undercity Plague
