@@ -8,7 +8,6 @@ Deck
 1 Najal, the Storm Runner (DMU) 208
 1 Gandalf the Grey (LTR) 207
 1 Mascot Exhibition (STX) 5
-1 Teach by Example (STX) 241
 1 Prismari Apprentice (STX) 213
 1 Galvanic Iteration (MID) 224
 1 Double Vision (M21) 142
@@ -16,35 +15,25 @@ Deck
 1 Howl of the Horde (KTK) 112
 1 Rowan, Scholar of Sparks (STX) 156
 1 Increasing Vengeance (STA) 40
-1 Delver of Secrets (MID) 47
-1 Siren Stormtamer (XLN) 79
 1 Sleep-Cursed Faerie (WOE) 66
 1 Baral, Chief of Compliance (KLR) 42
-1 Raving Visionary (MH2) 56
-1 Razzle-Dazzler (OTJ) 63
 1 Sea Gate Stormcaller (ZNR) 77
-1 Tazeem Roilmage (ZNR) 84
 1 Timestream Navigator (RIX) 59
-1 Rimewall Protector (Y22) 21
 1 Tishana's Tidebinder (LCI) 81
 1 Uvilda, Dean of Perfection (STX) 160
 1 Demilich (AFR) 53
 1 Windrider Wizard (ZNR) 87
 1 Archmage Emeritus (STX) 37
-1 Galvanic Giant (WOE) 52
 1 Naru Meha, Master Wizard (DAR) 59
 1 Splashy Spellcaster (WOE) 70
 1 Lier, Disciple of the Drowned (MID) 59
-1 Obyra's Attendants (WOE) 63
 1 Arcane Proxy (BRO) 75
 1 Ingenious Prodigy (WOE) 56
 1 Accident-Prone Apprentice (Y24) 16
 1 Electrostatic Infantry (DMU) 122
 1 Flame Channeler (MID) 141
-1 Ghitu Amplifier (DMU) 127
 1 Slickshot Show-Off (OTJ) 146
 1 Rockslide Sorcerer (ZNR) 154
-1 Basalt Ravager (KHM) 122
 1 Firefist Adept (DAR) 121
 1 Izzet Polarizer (Y24) 24
 1 Adeliz, the Cinder Wind (DAR) 190
@@ -61,7 +50,6 @@ Deck
 1 Electrolyze (STA) 60
 1 Volcanic Salvo (M21) 172
 1 Virtue of Courage (WOE) 157
-1 Burn Down the House (MID) 131
 1 Change of Fortune (VOW) 150
 1 Stone Rain (STA) 45
 1 Grapeshot (STA) 39
@@ -70,35 +58,25 @@ Deck
 1 Faithless Looting (STA) 38
 1 Ingenious Mastery (STX) 44
 1 Overflowing Insight (ANB) 30
-1 Sea Gate Restoration (ZNR) 76
 1 Sublime Epiphany (M21) 74
 1 Mind's Desire (STA) 17
-1 Faerie Slumber Party (WOE) 311
 1 Virtue of Knowledge (WOE) 76
 1 Time Warp (STA) 22
 1 Invoke the Winds (NEO) 58
 1 Archive Trap (OTP) 7
 1 Tezzeret's Gambit (STA) 21
-1 Tempted by the Oriq (STX) 58
 1 Summary Dismissal (SIR) 92
 1 Memory Deluge (MID) 62
 1 Farsight Ritual (WOE) 49
-1 Drawn from Dreams (M20) 56
-1 Teachings of the Archaics (STX) 57
 1 Inspired Idea (VOW) 64
-1 Absorb Energy (Y22) 12
 1 Tale's End (M20) 77
 1 Memory Lapse (STA) 16
 1 Counterspell (STA) 15
 1 Brainstorm (STA) 13
-1 Creative Outburst (STX) 171
 1 Practical Research (STX) 212
-1 Hypothesizzle (OTP) 48
-1 Ral's Outburst (WAR) 212
 1 Experimental Overload (M21) 218
 1 Expressive Iteration (STX) 186
 1 Arcane Infusion (MID) 210
-1 Invade the City (WAR) 201
 1 Beacon Bolt (GRN) 154
 1 Explosive Welcome (STX) 100
 1 Inescapable Blaze (ANB) 76
@@ -109,45 +87,22 @@ Deck
 1 Caught Red-Handed (MKM) 115
 1 Witchstalker Frenzy (WOE) 159
 1 Twisted Fealty (WOE) 154
-1 Magic Missile (AFR) 154
-1 Start from Scratch (STX) 114
 1 Hungry Flames (KLR) 129
 1 Rending Flame (VOW) 175
-1 Fight with Fire (DAR) 119
-1 Fateful End (THB) 133
-1 Unleash Fury (M21) 170
 1 Thundering Rebuke (ZNR) 170
-1 Fast // Furious (MH2) 123
-1 Brittle Blast (Y22) 37
-1 Thrill of Possibility (STA) 46
-1 Shove Aside (Y24) 16
 1 Shock (STA) 44
-1 Monstrous Rage (WOE) 142
 1 Melt Through (Y23) 10
 1 Infuriate (STA) 41
 1 Snow Day (STX) 53
 1 Self-Reflection (LCI) 74
-1 Sea God's Scorn (THB) 63
-1 Boon of the Wish-Giver (IKO) 43
 1 Split the Party (AFR) 76
 1 Sift (M19) 72
-1 Sudden Setback (MKM) 72
-1 Sleep (ANB) 33
-1 Wizard's Retort (DAR) 75
 1 Witness the Future (VOW) 90
-1 Whirlwind Denial (STA) 23
 1 Succumb to the Cold (WOE) 72
 1 Solve the Equation (STX) 54
-1 Saw It Coming (KHM) 76
 1 Repulse (OTP) 13
-1 Mentor's Guidance (STX) 46
-1 Discover the Impossible (NEO) 50
 1 Confounding Riddle (LCI) 50
 1 Paths of Tuinvale (Y24) 4
 1 Negate (STA) 18
-1 Mapping the Maze (Y24) 7
-1 Jwari Disruption (ZNR) 64
-1 Fleeting Reflection (OTJ) 49
 1 Slip Out the Back (SNC) 62
-1 Opt (STA) 19
 1 Fading Hope (MID) 51
