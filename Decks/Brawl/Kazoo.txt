@@ -7,7 +7,7 @@ Deck
 1 Thousand-Year Storm (GRN) 207
 1 Najal, the Storm Runner (DMU) 208
 1 Gandalf the Grey (LTR) 207
-1 Rootha, Mercurial Artist (STX) 227
+1 Mascot Exhibition (STX) 5
 1 Teach by Example (STX) 241
 1 Prismari Apprentice (STX) 213
 1 Galvanic Iteration (MID) 224
@@ -54,3 +54,40 @@ Deck
 1 Rielle, the Everwise (IKO) 203
 1 Vadrik, Astral Archmage (MID) 248
 1 Wee Dragonauts (GRN) 214
+1 Wandering Archaic (STX) 6
+1 Magma Opus (STX) 203
+1 Prismari Command (STX) 214
+1 Flame of Anor (LTR) 203
+1 Electrolyze (STA) 60
+1 Volcanic Salvo (M21) 172
+1 Virtue of Courage (WOE) 157
+1 Burn Down the House (MID) 131
+1 Change of Fortune (VOW) 150
+1 Stone Rain (STA) 45
+1 Grapeshot (STA) 39
+1 Electrostatic Blast (Y22) 39
+1 Lightning Bolt (STA) 42
+1 Faithless Looting (STA) 38
+1 Ingenious Mastery (STX) 44
+1 Overflowing Insight (ANB) 30
+1 Sea Gate Restoration (ZNR) 76
+1 Sublime Epiphany (M21) 74
+1 Mind's Desire (STA) 17
+1 Faerie Slumber Party (WOE) 311
+1 Virtue of Knowledge (WOE) 76
+1 Time Warp (STA) 22
+1 Invoke the Winds (NEO) 58
+1 Archive Trap (OTP) 7
+1 Tezzeret's Gambit (STA) 21
+1 Tempted by the Oriq (STX) 58
+1 Summary Dismissal (SIR) 92
+1 Memory Deluge (MID) 62
+1 Farsight Ritual (WOE) 49
+1 Drawn from Dreams (M20) 56
+1 Teachings of the Archaics (STX) 57
+1 Inspired Idea (VOW) 64
+1 Absorb Energy (Y22) 12
+1 Tale's End (M20) 77
+1 Memory Lapse (STA) 16
+1 Counterspell (STA) 15
+1 Brainstorm (STA) 13
