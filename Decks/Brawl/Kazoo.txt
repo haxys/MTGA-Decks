@@ -1,0 +1,103 @@
+Commander
+1 Kaza, Roil Chaser (ZNR) 225
+
+Deck
+1 A-Spell Satchel (STX) 258
+17 Island (OTJ) 280
+23 Mountain (OTJ) 284
+1 Expansion // Explosion (GRN) 224
+1 Thousand-Year Storm (GRN) 207
+1 Najal, the Storm Runner (DMU) 208
+1 Gandalf the Grey (LTR) 207
+1 Rootha, Mercurial Artist (STX) 227
+1 Teach by Example (STX) 241
+1 Prismari Pledgemage (STX) 215
+1 Prismari Apprentice (STX) 213
+1 Galvanic Iteration (MID) 224
+1 Double Vision (M21) 142
+1 A-Symmetry Sage (STX) 56
+1 Mizzix's Mastery (STA) 43
+1 Howl of the Horde (KTK) 112
+1 Fable of the Mirror-Breaker (NEO) 141
+1 A-Rowan, Scholar of Sparks (STX) 156
+1 Increasing Vengeance (STA) 40
+1 Benthic Biomancer (RNA) 32
+1 Delver of Secrets (MID) 47
+1 Overwhelmed Apprentice (ELD) 60
+1 Siren Stormtamer (XLN) 79
+1 Sleep-Cursed Faerie (WOE) 66
+1 Snaremaster Sprite (WOE) 68
+1 Arcane Investigator (AFR) 46
+1 Avalanche Caller (KHM) 45
+1 Baral, Chief of Compliance (KLR) 42
+1 Burrog Befuddler (STX) 38
+1 Karfell Harbinger (KHM) 65
+1 Oracle of Tragedy (MOM) 71
+1 Raving Visionary (MH2) 56
+1 Razzle-Dazzler (OTJ) 63
+1 Sea Gate Stormcaller (ZNR) 77
+1 Skaab Wrangler (MID) 75
+1 Soothsayer Adept (STX) 55
+1 Tazeem Roilmage (ZNR) 84
+1 Timestream Navigator (RIX) 59
+1 Triskaidekaphile (MID) 81
+1 Vodalian Arcanist (M21) 83
+1 Aether Channeler (DMU) 42
+1 Cloudkin Seer (ANB) 25
+1 Frolicking Familiar (WOE) 226
+1 Frost Trickster (STX) 43
+1 Geralf, Visionary Stitcher (VOW) 61
+1 Moonfolk Puzzlemaker (NEO) 68
+1 Overwhelmed Archivist (MID) 68
+1 Rimewall Protector (Y22) 21
+1 Sage of Days (LCI) 73
+1 Third Path Savant (BRO) 67
+1 Tishana's Tidebinder (LCI) 81
+1 Uvilda, Dean of Perfection (STX) 160
+1 Vortex Runner (STX) 60
+1 Warden of Evos Isle (ANB) 38
+1 A-Demilich (AFR) 53
+1 Windrider Wizard (ZNR) 87
+1 Archmage Emeritus (STX) 37
+1 Cascade Seer (ZNR) 48
+1 Drownyard Explorers (SIR) 63
+1 Galvanic Giant (WOE) 52
+1 Meldweb Curator (ONE) 59
+1 Naru Meha, Master Wizard (DAR) 59
+1 Splashy Spellcaster (WOE) 70
+1 Vantress Transmuter (WOE) 75
+1 Waterfall Aerialist (STX) 61
+1 Talion's Throneguard (Y24) 5
+1 A-Lier, Disciple of the Drowned (MID) 59
+1 Benthic Criminologists (MKM) 40
+1 Berg Strider (KHM) 47
+1 Frostpyre Arcanist (KHM) 58
+1 Obyra's Attendants (WOE) 63
+1 Umara Wizard (ZNR) 86
+1 Archive Dragon (WOE) 41
+1 Arcane Proxy (BRO) 75
+1 Ingenious Prodigy (WOE) 56
+1 Vindictive Flamestoker (ONE) 154
+1 Accident-Prone Apprentice (Y24) 16
+1 Construction Arsonist (Y24) 15
+1 Electrostatic Infantry (DMU) 122
+1 Flame Channeler (MID) 141
+1 Ghitu Amplifier (DMU) 127
+1 Ghitu Embercoiler (Y23) 12
+1 Obsessive Astronomer (MID) 152
+1 Voltaic Visionary (VOW) 183
+1 Slickshot Show-Off (OTJ) 146
+1 A-Rockslide Sorcerer (ZNR) 154
+1 Irencrag Pyromancer (ELD) 128
+1 Basalt Ravager (KHM) 122
+1 Firefist Adept (DAR) 121
+1 Izzet Polarizer (Y24) 24
+1 Lightning Stormkin (M20) 213
+1 Adeliz, the Cinder Wind (DAR) 190
+1 Aegar, the Freezing Flame (KHM) 200
+1 A-Maelstrom Muse (STX) 202
+1 A-Umara Mystic (ZNR) 238
+1 Rielle, the Everwise (IKO) 203
+1 Vadrik, Astral Archmage (MID) 248
+1 Wee Dragonauts (GRN) 214
+1 Elemental Expressionist (STX) 181
