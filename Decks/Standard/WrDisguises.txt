@@ -1,15 +1,14 @@
 Deck
 2 Forum Familiar (MKM) 16
 4 Aurelia's Vindicator (MKM) 4
-2 Museum Nightwatch (MKM) 25
-2 Essence of Antiquity (MKM) 15
+2 Korvold and the Noble Thief (WOE) 139
 2 Defenestrated Phantom (MKM) 11
-4 Mountain (DMU) 273
+6 Mountain (DMU) 273
 2 Expose the Culprit (MKM) 124
 4 Pyrotechnic Performer (MKM) 140
-2 Offender at Large (MKM) 138
+4 Offender at Large (MKM) 138
 1 Bolrac-Clan Basher (MKM) 112
-6 Plains (M21) 260
+4 Plains (M21) 260
 2 Branch of Vitu-Ghazi (MKM) 258
 3 Elspeth's Smite (MOM) 13
 2 Play with Fire (MID) 154
@@ -26,9 +25,8 @@ Sideboard
 3 Bolrac-Clan Basher (MKM) 112
 1 Defenestrated Phantom (MKM) 11
 1 Forum Familiar (MKM) 16
-1 Offender at Large (MKM) 138
 2 Museum Nightwatch (MKM) 25
 1 Expose the Culprit (MKM) 124
 2 Eerie Interference (WOE) 12
-1 Essence of Antiquity (MKM) 15
+2 Essence of Antiquity (MKM) 15
 1 Stroke of Midnight (WOE) 33
