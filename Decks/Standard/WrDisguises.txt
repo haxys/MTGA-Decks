@@ -1,0 +1,26 @@
+Deck
+4 Forum Familiar (MKM) 16
+4 Unyielding Gatekeeper (MKM) 35
+4 Aurelia's Vindicator (MKM) 4
+4 Museum Nightwatch (MKM) 25
+4 Essence of Antiquity (MKM) 15
+4 Defenestrated Phantom (MKM) 11
+4 Concealed Weapon (MKM) 117
+4 Expose the Culprit (MKM) 124
+4 Pyrotechnic Performer (MKM) 140
+4 Offender at Large (MKM) 138
+4 Bolrac-Clan Basher (MKM) 112
+4 Dog Walker (MKM) 197
+4 Lumbering Laundry (MKM) 253
+4 Branch of Vitu-Ghazi (MKM) 258
+4 Elspeth's Smite (MOM) 13
+4 Play with Fire (MID) 154
+4 Lantern Flare (VOW) 23
+4 Eerie Interference (WOE) 12
+4 Stroke of Midnight (WOE) 33
+4 Hurloon Battle Hymn (DMU) 131
+4 Angelfire Ignition (MID) 209
+4 Uncharted Haven (NEO) 281
+4 Wind-Scarred Crag (MOM) 276
+4 Sundown Pass (VOW) 266
+4 Elegant Parlor (MKM) 260
