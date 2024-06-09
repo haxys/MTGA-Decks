@@ -1,22 +1,25 @@
 Deck
 2 Outlaw Medic (OTJ) 23
-10 Plains (OTJ) 278
-3 Rakish Crew (OTJ) 99
-3 Thunder Lasso (OTJ) 35
-3 Stagecoach Security (OTJ) 30
+6 Plains (OTJ) 278
+4 Rakish Crew (OTJ) 99
+2 Thunder Lasso (OTJ) 35
 3 Forsaken Miner (OTJ) 88
-13 Swamp (OTJ) 282
+14 Swamp (OTJ) 282
 4 Tinybones, the Pickpocket (OTJ) 109
-1 Caustic Bronco (OTJ) 82
+2 Caustic Bronco (OTJ) 82
 3 Mourner's Surprise (OTJ) 94
-1 Neutralize the Guards (OTJ) 95
 1 Rush of Dread (OTJ) 104
-1 Forlorn Flats (OTJ) 258
-2 Tomb Trawler (OTJ) 250
-1 Ruthless Lawbringer (OTJ) 229
+4 Forlorn Flats (OTJ) 258
+2 Ruthless Lawbringer (OTJ) 229
 4 Baron Bertram Graywater (OTJ) 195
-2 Bovine Intervention (OTJ) 6
+3 Bovine Intervention (OTJ) 6
 3 Rictus Robber (OTJ) 102
+3 High Fae Negotiator (WOE) 94
 
 Sideboard
 1 Lavaspur Boots (OTJ) 243
+3 Stagecoach Security (OTJ) 30
+1 Neutralize the Guards (OTJ) 95
+1 Thunder Lasso (OTJ) 35
+1 Tomb Trawler (OTJ) 250
+1 Tomb Trawler (OTJ) 250
