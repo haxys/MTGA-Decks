@@ -1,0 +1,68 @@
+Main Deck (100)
+
+Creatures(40)
+
+1 Slag Fiend
+1 Reyav, Master Smith
+1 Akiri, Fearless Voyager
+1 Boros Reckoner
+2 Grinning Ignus
+2 Rust Monster
+2 Scarecrone
+1 Wyleth, Soul of Steel
+2 Barbed Shocker
+3 Bruenor Battlehammer
+1 Cyclops Gladiator
+2 Iron Golem
+2 Dragon-Style Twins
+1 Heartless Hidetsugu
+1 Kalemne's Captain
+2 Kjeldoran Royal Guard
+1 Kuldotha Phoenix
+1 Magmaw
+1 Hoard-Smelter Dragon
+2 Magus of the Arena
+1 Megatog
+3 Palisade Giant
+2 Skarrgan Firebird
+3 Hellkite Igniter
+1 Meteor Golem
+
+Spells(60)
+
+2 Infuriate
+2 Boots of Speed
+3 Devil's Play
+2 Greataxe
+1 Hedgewitch's Mask
+2 Raze the Effigy
+2 Renegade Tactics
+1 Swords to Plowshares
+1 Zephyr Boots
+3 +2 Mace
+1 Armory of Iroas
+3 Dancing Sword
+2 Fierce Retribution
+2 Goblin Morningstar
+1 Open the Armory
+1 Rip Apart
+3 Sanctify
+2 You Find Some Prisoners
+2 Angelic Armaments
+1 Captain's Hook
+2 Citywide Bust
+1 Haunted Cloak
+3 Start from Scratch
+1 Umbral Mantle
+1 Cerebral Eruption
+3 Defend the Campus
+3 Divine Reckoning
+1 Fated Conflagration
+1 Pigment Storm
+2 Single Combat
+1 Worldslayer
+1 Meteoric Mace
+1 Profound Journey
+2 Alpha Brawl
+
+Built with Decked Builder
