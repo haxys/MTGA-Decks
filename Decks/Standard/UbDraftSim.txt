@@ -1,28 +1,22 @@
 Deck
-1 Canyon Crab (OTJ) 40
-12 Island (OTJ) 280
-2 Emergent Haunting (OTJ) 46
-1 Essence Capture (OTP) 10
-2 Fleeting Reflection (OTJ) 49
-1 Geyser Drake (OTJ) 51
+8 Island (OTJ) 280
 2 Nimble Brigand (OTJ) 58
-1 Seize the Secrets (OTJ) 64
-1 Daring Thunder-Thief (OTJ) 41
-4 Loan Shark (OTJ) 55
+2 Daring Thunder-Thief (OTJ) 41
+2 Loan Shark (OTJ) 55
 1 Stoic Sphinx (OTJ) 71
-2 Djinn of Fool's Fall (OTJ) 43
-1 Peerless Ropemaster (OTJ) 60
+3 Djinn of Fool's Fall (OTJ) 43
 2 This Town Ain't Big Enough (OTJ) 74
-1 Corrupted Conviction (OTJ) 84
-8 Swamp (OTJ) 282
-2 Corrupted Conviction (MOM) 98
+3 Eaten Alive (MID) 99
+10 Swamp (OTJ) 282
 4 Forsaken Miner (OTJ) 88
-1 Blood Hustler (OTJ) 80
-1 Fake Your Own Death (OTJ) 87
-1 Blacksnag Buzzard (OTJ) 79
-1 Vault Plunderer (OTJ) 114
-1 Consuming Ashes (OTJ) 83
-1 Rooftop Assassin (OTJ) 103
+3 Blood Hustler (OTJ) 80
+2 Rooftop Assassin (OTJ) 103
 4 Soured Springs (OTJ) 264
 1 Satoru, the Infiltrator (OTJ) 230
-1 Lazav, Familiar Stranger (OTJ) 216
+2 Lazav, Familiar Stranger (OTJ) 216
+2 Essence Capture (NEO) 52
+1 Lazav, Wearer of Faces (MKM) 216
+2 Infernal Grasp (MID) 107
+2 Covert Cutpurse (MID) 92
+2 Murder (OTP) 16
+2 Field of Ruin (MID) 262
