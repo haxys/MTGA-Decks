@@ -6,21 +6,22 @@ Deck
 3 Explosive Derailment (OTJ) 122
 2 Abrade (VOW) 139
 2 Deadeye Duelist (OTJ) 119
-4 Scorching Shot (OTJ) 145
-1 Urabrask (MOM) 169
-4 Twinshot Sniper (NEO) 168
+2 Scorching Shot (OTJ) 145
+3 Urabrask (MOM) 169
+3 Shock (MKM) 144
 2 Keldon Flamesage (DMU) 135
 2 Mechanized Warfare (BRO) 139
 3 Twisted Fealty (WOE) 154
-1 Khenra Spellspear (MOM) 151
+2 Khenra Spellspear (MOM) 151
 
 Sideboard
 1 Simian Sling (NEO) 163
 1 Red Herring (MKM) 142
-1 Shock (MKM) 144
 1 Pyrotechnic Performer (MKM) 140
 1 Expedited Inheritance (MKM) 123
 1 Draconic Destiny (BRO) 130
 1 Rodeo Pyromancers (OTJ) 143
-1 Urabrask (MOM) 169
 1 Deadeye Duelist (OTJ) 119
+1 Urabrask (MOM) 169
+1 Scorching Shot (OTJ) 145
+1 Twinshot Sniper (NEO) 168
