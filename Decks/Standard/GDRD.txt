@@ -1,0 +1,22 @@
+Deck
+4 Monastery Swiftspear (BRO) 144
+24 Mountain (MH3) 317
+4 Play with Fire (MID) 154
+3 Slickshot Show-Off (OTJ) 146
+3 Explosive Derailment (OTJ) 122
+2 Abrade (VOW) 139
+3 Deadeye Duelist (OTJ) 119
+4 Scorching Shot (OTJ) 145
+3 Urabrask (MOM) 169
+3 Twinshot Sniper (NEO) 168
+2 Keldon Flamesage (DMU) 135
+2 Mechanized Warfare (BRO) 139
+3 Twisted Fealty (WOE) 154
+
+Sideboard
+1 Simian Sling (NEO) 163
+1 Red Herring (MKM) 142
+1 Shock (MKM) 144
+1 Pyrotechnic Performer (MKM) 140
+1 Expedited Inheritance (MKM) 123
+1 Draconic Destiny (BRO) 130
