@@ -1,18 +1,17 @@
 Deck
 3 Mischievous Catgeist (VOW) 69
-2 Slip Out the Back (SNC) 62
-3 Exit Specialist (MKM) 55
+2 Exit Specialist (MKM) 55
 3 Essence Capture (NEO) 52
 1 Dreamshackle Geist (VOW) 58
-2 Fading Hope (MID) 51
+3 Fading Hope (MID) 51
 3 Harrier Strix (OTJ) 52
 2 Jailbreak Scheme (OTJ) 53
-2 Lantern Bearer (VOW) 66
+3 Lantern Bearer (VOW) 66
 23 Island (MH3) 313
 2 Disdainful Stroke (SNC) 39
 3 Fblthp, Lost on the Range (OTJ) 48
 2 Nimble Brigand (OTJ) 58
-2 Succumb to the Cold (WOE) 72
+3 Succumb to the Cold (WOE) 72
 2 Asinine Antics (WOE) 42
 2 Sudden Setback (MKM) 72
 3 Invoke the Winds (NEO) 58
@@ -29,3 +28,4 @@ Sideboard
 1 Fblthp, Lost on the Range (OTJ) 48
 1 Gutter Skulker (VOW) 62
 1 Sudden Setback (MKM) 72
+1 Slip Out the Back (SNC) 62
