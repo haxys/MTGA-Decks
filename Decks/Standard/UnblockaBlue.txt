@@ -1,28 +1,29 @@
 Deck
 4 Mischievous Catgeist (VOW) 69
 4 Essence Capture (NEO) 52
-4 Dreamshackle Geist (VOW) 58
-4 Fading Hope (MID) 51
-4 Harrier Strix (OTJ) 52
-23 Island (MH3) 313
-3 Fblthp, Lost on the Range (OTJ) 48
+3 Dreamshackle Geist (VOW) 58
+3 Fading Hope (MID) 51
+3 Harrier Strix (OTJ) 52
+24 Island (MH3) 313
+2 Lantern Bearer (VOW) 66
 2 Nimble Brigand (OTJ) 58
 2 Succumb to the Cold (WOE) 72
 3 Sudden Setback (MKM) 72
-3 Invoke the Winds (NEO) 58
-4 Ingenious Prodigy (WOE) 56
+2 Invoke the Winds (NEO) 58
+2 Ingenious Prodigy (WOE) 56
+2 Impede Momentum (DMU) 54
+2 Acquisition Octopus (NEO) 44
+2 Asinine Antics (WOE) 42
 
 Sideboard
-1 Snaremaster Sprite (WOE) 68
-1 Fblthp, Lost on the Range (OTJ) 48
+1 Dreamshackle Geist (VOW) 58
+2 Fblthp, Lost on the Range (OTJ) 48
 1 Slip Out the Back (SNC) 62
 2 Jailbreak Scheme (OTJ) 53
-2 Acquisition Octopus (NEO) 44
-1 Cryptic Coat (MKM) 50
+1 Harrier Strix (OTJ) 52
+1 Water Wings (WOE) 77
 1 Sudden Setback (MKM) 72
-1 Grafted Identity (MID) 57
-1 Gutter Skulker (VOW) 62
-1 Succumb to the Cold (WOE) 72
-1 Asinine Antics (WOE) 42
-1 Lantern Bearer (VOW) 66
+2 Succumb to the Cold (WOE) 72
+1 Planar Incision (NEO) 72
 1 Nimble Brigand (OTJ) 58
+2 Ingenious Prodigy (WOE) 56
