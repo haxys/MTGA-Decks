@@ -1,0 +1,53 @@
+Deck
+4 Mischievous Catgeist (VOW) 69
+4 Essence Capture (NEO) 52
+3 Dreamshackle Geist (VOW) 58
+3 Fading Hope (MID) 51
+3 Harrier Strix (OTJ) 52
+24 Island (MH3) 313
+2 Lantern Bearer (VOW) 66
+2 Nimble Brigand (OTJ) 58
+2 Succumb to the Cold (WOE) 72
+3 Sudden Setback (MKM) 72
+2 Invoke the Winds (NEO) 58
+2 Ingenious Prodigy (WOE) 56
+2 Impede Momentum (DMU) 54
+2 Acquisition Octopus (NEO) 44
+2 Asinine Antics (WOE) 42
+4 Monastery Swiftspear (BRO) 144
+24 Mountain (MH3) 317
+4 Play with Fire (MID) 154
+4 Slickshot Show-Off (OTJ) 146
+2 Khenra Spellspear (MOM) 151
+3 Urabrask (MOM) 169
+3 Shock (MKM) 144
+3 Keldon Flamesage (DMU) 135
+2 Mechanized Warfare (BRO) 139
+3 Twisted Fealty (WOE) 154
+4 Lightning Strike (DMU) 137
+4 Highway Robbery (OTJ) 129
+
+Sideboard
+1 Dreamshackle Geist (VOW) 58
+2 Fblthp, Lost on the Range (OTJ) 48
+1 Slip Out the Back (SNC) 62
+2 Jailbreak Scheme (OTJ) 53
+1 Harrier Strix (OTJ) 52
+1 Water Wings (WOE) 77
+1 Sudden Setback (MKM) 72
+2 Succumb to the Cold (WOE) 72
+1 Planar Incision (NEO) 72
+1 Nimble Brigand (OTJ) 58
+2 Ingenious Prodigy (WOE) 56
+1 Simian Sling (NEO) 163
+1 Red Herring (MKM) 142
+1 Expedited Inheritance (MKM) 123
+1 Draconic Destiny (BRO) 130
+1 Rodeo Pyromancers (OTJ) 143
+1 Deadeye Duelist (OTJ) 119
+1 Abrade (VOW) 139
+1 Urabrask (MOM) 169
+1 Deadeye Duelist (OTJ) 119
+1 Twinshot Sniper (NEO) 168
+2 Scorching Shot (OTJ) 145
+1 Abrade (VOW) 139
