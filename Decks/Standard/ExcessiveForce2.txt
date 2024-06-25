@@ -1,0 +1,26 @@
+Deck
+5 Swamp (ZEN) 241
+3 Eccentric Farmer (MID) 185
+4 Deathcap Glade (VOW) 261
+4 Gloomshrieker (NEO) 219
+4 Azusa's Many Journeys (NEO) 172
+2 Takenuma, Abandoned Mire (NEO) 278
+13 Forest (ZEN) 249
+4 Undead Butler (VOW) 133
+4 Gruff Triplets (WOE) 172
+3 Unnatural Growth (WOT) 62
+4 Corrupted Conviction (OTJ) 84
+4 Return to Action (NEO) 121
+2 Railway Brawler (OTJ) 175
+4 Bushwhack (BRO) 174
+
+Sideboard
+1 Go for the Throat (BRO) 102
+1 Caustic Bronco (OTJ) 82
+1 Crawl from the Cellar (MID) 93
+1 Powerstone Fracture (BRO) 112
+1 Beanstalk Wurm (WOE) 161
+1 Lich-Knights' Conquest (WOE) 96
+1 Not Dead After All (WOE) 101
+1 Fake Your Own Death (OTJ) 87
+1 Virtue of Persistence (WOE) 115
