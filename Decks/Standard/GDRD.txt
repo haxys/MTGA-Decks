@@ -3,13 +3,13 @@ Deck
 24 Mountain (MH3) 317
 4 Play with Fire (MID) 154
 4 Slickshot Show-Off (OTJ) 146
-2 Keldon Flamesage (DMU) 135
-2 Mechanized Warfare (BRO) 139
+2 Obliterating Bolt (BRO) 145
+4 Stolen Vitality (MID) 161
 4 Monstrous Rage (WOE) 142
 4 Lightning Strike (DMU) 137
-4 Highway Robbery (OTJ) 129
 4 Phoenix Chick (DMU) 140
 4 Witchstalker Frenzy (WOE) 159
+2 Scorching Shot (OTJ) 145
 
 Sideboard
 1 Red Herring (MKM) 142
@@ -20,8 +20,8 @@ Sideboard
 1 Kindled Heroism (WOE) 138
 1 Khenra Spellspear (MOM) 151
 2 Urabrask (MOM) 169
-1 Keldon Flamesage (DMU) 135
+1 Highway Robbery (OTJ) 129
 1 Twinshot Sniper (NEO) 168
 1 Scorching Shot (OTJ) 145
 2 Obliterating Bolt (BRO) 145
-1 Stolen Vitality (MID) 161
+1 Keldon Flamesage (DMU) 135
