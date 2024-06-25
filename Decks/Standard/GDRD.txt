@@ -4,13 +4,14 @@ Deck
 4 Play with Fire (MID) 154
 4 Slickshot Show-Off (OTJ) 146
 2 Khenra Spellspear (MOM) 151
-3 Urabrask (MOM) 169
-3 Shock (MKM) 144
+1 Urabrask (MOM) 169
+3 Kindled Heroism (WOE) 138
 3 Keldon Flamesage (DMU) 135
 2 Mechanized Warfare (BRO) 139
-3 Twisted Fealty (WOE) 154
+2 Twisted Fealty (WOE) 154
 4 Lightning Strike (DMU) 137
 4 Highway Robbery (OTJ) 129
+3 Stolen Vitality (MID) 161
 
 Sideboard
 1 Simian Sling (NEO) 163
@@ -20,8 +21,9 @@ Sideboard
 1 Rodeo Pyromancers (OTJ) 143
 1 Deadeye Duelist (OTJ) 119
 1 Abrade (VOW) 139
-1 Urabrask (MOM) 169
+2 Urabrask (MOM) 169
 1 Deadeye Duelist (OTJ) 119
 1 Twinshot Sniper (NEO) 168
 2 Scorching Shot (OTJ) 145
 1 Abrade (VOW) 139
+1 Shock (MKM) 144
