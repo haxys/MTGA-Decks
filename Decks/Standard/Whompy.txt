@@ -1,0 +1,31 @@
+Deck
+3 Bounding Felidar (OTJ) 5
+23 Plains (ZEN) 233
+4 Frontier Seeker (OTJ) 13
+3 Parish-Blade Trainee (VOW) 29
+2 Bereaved Survivor (MID) 4
+3 Take Up the Shield (OTJ) 34
+2 Wanderer's Intervention (NEO) 41
+4 Elspeth's Smite (MOM) 13
+3 The Restoration of Eiganjo (NEO) 34
+3 Bola Slinger (MOM) 8
+4 Iron Apprentice (NEO) 248
+3 Skittering Surveyor (MOM) 264
+3 Prison Sentence (BRO) 21
+
+Sideboard
+1 Werefox Bodyguard (WOE) 39
+1 Gavony Silversmith (MID) 21
+1 Myrel, Shield of Argive (BRO) 18
+1 Fortune, Loyal Steed (OTJ) 12
+1 Golden-Tail Disciple (NEO) 15
+1 Kindly Ancestor (VOW) 22
+1 Spellbook Vendor (WOE) 31
+1 Make Your Move (MKM) 22
+1 Circuit Mender (NEO) 242
+1 Rumor Gatherer (SNC) 29
+1 Bandit's Haul (OTJ) 240
+1 Bovine Intervention (OTJ) 6
+1 Bola Slinger (MOM) 8
+1 Bereaved Survivor (MID) 4
+1 Wanderer's Intervention (NEO) 41
