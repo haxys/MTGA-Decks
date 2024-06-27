@@ -1,27 +1,27 @@
 Deck
 4 Monastery Swiftspear (BRO) 144
-24 Mountain (MH3) 317
+24 Mountain (ZEN) 245
 4 Play with Fire (MID) 154
 4 Slickshot Show-Off (OTJ) 146
-2 Obliterating Bolt (BRO) 145
-4 Stolen Vitality (MID) 161
 4 Monstrous Rage (WOE) 142
 4 Lightning Strike (DMU) 137
-4 Phoenix Chick (DMU) 140
-4 Witchstalker Frenzy (WOE) 159
-2 Scorching Shot (OTJ) 145
+3 Ancestral Anger (VOW) 142
+3 Highway Robbery (OTJ) 129
+3 Khenra Spellspear (MOM) 151
+3 Witchstalker Frenzy (WOE) 159
+2 Ambitious Assault (NEO) 133
+2 Obliterating Bolt (BRO) 145
 
 Sideboard
-1 Red Herring (MKM) 142
-1 Expedited Inheritance (MKM) 123
+2 Scorching Shot (OTJ) 145
+2 Kumano Faces Kakkazan (NEO) 152
+1 Reinforced Ronin (NEO) 158
+1 Phoenix Chick (DMU) 140
+1 Charming Scoundrel (WOE) 124
+1 Rebel Salvo (ONE) 144
+1 Scorching Shot (OTJ) 145
+1 Ambitious Assault (NEO) 133
 1 Draconic Destiny (BRO) 130
-1 Rodeo Pyromancers (OTJ) 143
-1 Scorching Shot (OTJ) 145
-1 Kindled Heroism (WOE) 138
-1 Khenra Spellspear (MOM) 151
-2 Urabrask (MOM) 169
-1 Highway Robbery (OTJ) 129
-1 Twinshot Sniper (NEO) 168
-1 Scorching Shot (OTJ) 145
-2 Obliterating Bolt (BRO) 145
-1 Keldon Flamesage (DMU) 135
+2 Keldon Flamesage (DMU) 135
+1 Stolen Vitality (MID) 161
+1 Urabrask's Forge (ONE) 153
