@@ -1,21 +1,32 @@
 Deck
-4 Lion Sash (NEO) 26
+4 Elspeth's Smite (MOM) 13
 4 Mischievous Catgeist (VOW) 69
-4 Jewel Thief (SNC) 151
-2 Wary Thespian (MOM) 215
-2 Hedgewitch's Mask (MID) 23
-3 Slip Out the Back (SNC) 62
-2 Spara's Adjudicators (SNC) 224
-2 Zar Ojanen, Scion of Efrava (DMU) 227
+4 Valorous Stance (VOW) 42
 4 Chrome Prowler (ONE) 45
-2 Nishoba Brawler (DMU) 174
 4 Bola Slinger (MOM) 8
-3 Brokers Initiate (SNC) 5
-1 Dreamroot Cascade (VOW) 262
-3 Spara's Headquarters (SNC) 257
-4 Secluded Courtyard (NEO) 275
-2 Overgrown Farmland (MID) 265
-5 Plains (LTR) 263
-4 Island (LTR) 265
-3 Forest (LTR) 271
 2 Deserted Beach (MID) 260
+4 Secluded Courtyard (NEO) 275
+4 This Town Ain't Big Enough (OTJ) 74
+3 Forum Familiar (MKM) 16
+4 Lonely Arroyo (OTJ) 260
+2 Succumb to the Cold (WOE) 72
+4 Cheeky House-Mouse (WOE) 7
+3 Out Cold (MKM) 66
+4 Island (ZEN) 237
+6 Plains (ZEN) 233
+4 Tranquil Cove (MOM) 275
+
+Sideboard
+1 Slip Out the Back (SNC) 62
+1 Negate (STA) 18
+1 Fleeting Reflection (OTJ) 49
+1 Call a Surprise Witness (MKM) 6
+1 Essence Capture (NEO) 52
+1 Fading Hope (MID) 51
+1 Brokers Initiate (SNC) 5
+1 Seize the Secrets (OTJ) 64
+1 Failed Fording (OTJ) 47
+1 Eerie Interference (WOE) 12
+1 On the Job (MKM) 30
+1 Repel the Vile (NEO) 33
+1 Malamet War Scribe (LCI) 21
