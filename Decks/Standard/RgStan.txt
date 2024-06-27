@@ -1,16 +1,21 @@
 Deck
-5 Forest (MH3) 319
-3 Sprouting Goblin (DMU) 145
+8 Forest (MH3) 319
+4 Sprouting Goblin (DMU) 145
 4 Ruby, Daring Tracker (WOE) 212
-11 Mountain (MH3) 317
-3 Phoenix Chick (DMU) 140
+8 Mountain (MH3) 317
+2 Phoenix Chick (DMU) 140
 3 Monstrous Rage (WOE) 142
-3 Deathbonnet Sprout (MID) 181
-3 Bushwhack (BRO) 174
-3 Highway Robbery (OTJ) 129
-4 Ambitious Assault (NEO) 133
-4 Flick a Coin (WOE) 128
-3 Harmonious Emergence (NEO) 190
+4 Railway Brawler (OTJ) 175
+4 Bushwhack (BRO) 174
+3 Charming Scoundrel (WOE) 124
+3 Ambitious Assault (NEO) 133
+3 Flick a Coin (WOE) 128
+3 Unnatural Growth (WOT) 62
 3 Grabby Giant (WOE) 133
 4 Bristling Backwoods (OTJ) 253
 4 Rugged Highlands (MOM) 271
+
+Sideboard
+1 Harmonious Emergence (NEO) 190
+1 Deathbonnet Sprout (MID) 181
+1 Highway Robbery (OTJ) 129
